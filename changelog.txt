@@ -5,4 +5,4 @@
 - Initial release of the pack
 - Main configs prepared
 - Initial support for FTB Unleashed, Direwolf20's Pack and Resonant Rise implemented
-- No support for converting worlds
+- Barebones support for world conversion with mIDas
