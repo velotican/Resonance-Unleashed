@@ -46,7 +46,7 @@ block {
 "difficulty changes" {
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
-    B:"Enable Auto-Smelt and Fortune interaction"=false
+    B:"Enable Auto-Smelt and Fortune interaction"=true
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
     B:"Enable mod stone tools"=true
