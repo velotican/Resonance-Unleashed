@@ -92,6 +92,7 @@ Translocator [1.1.0.3]
 = Resonant Rise =
 
 AE Extra Cells [1.2.2c]
+Backpacks [1.12.15]
 BechillTPS [0.5.0.1]
 BC Big Reactors [0.1.13A]
 BC Logistics Pipes [0.7.3.dev.595]
