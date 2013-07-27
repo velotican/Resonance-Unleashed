@@ -1096,6 +1096,7 @@ Item. Name: item.itemDimDoor. ID: 5930
 Item. Name: item.itemLinkSignature. ID: 5931
 Item. Name: item.ItemRiftBlade. ID: 5932
 Item. Name: item.itemStabilizedRiftSig. ID: 5933
+Item. Name: item.itemDimDoorWarp. ID: 5936
 Item. Name: item.gemForce. ID: 6256
 Item. Name: item.ingotForce. ID: 6257
 Item. Name: item.goldenPower. ID: 6258
