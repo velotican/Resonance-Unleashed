@@ -1914,6 +1914,10 @@ Item. Name: item.Multimeter. ID: 16234
 Item. Name: item.immibis/ccperiphs:rf. ID: 16250
 Item. Name: item.immibis/redlogic:screwdriver. ID: 16517
 Item. Name: item.ingot. ID: 18006
+Item. Name: item.backpack. ID: 18586
+Item. Name: item.leather. ID: 18587
+Item. Name: item.leather. ID: 18588
+Item. Name: item.backpack. ID: 18589
 Item. Name: item.woodenGearItem. ID: 19356
 Item. Name: item.stoneGearItem. ID: 19357
 Item. Name: item.ironGearItem. ID: 19358
