@@ -1,0 +1,8 @@
+== Changelog ==
+
+= 1.0.0 = 27 July 2013
+
+- Initial release of the pack
+- Main configs prepared
+- Initial support for FTB Unleashed, Direwolf20's Pack and Resonant Rise implemented
+- No support for converting worlds
