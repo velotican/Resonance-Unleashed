@@ -39,6 +39,8 @@ tile.mfr.machine.blocksmasher.name = Block Smasher
 tile.mfr.machine.rednote.name = RedNote Block
 tile.mfr.machine.autobrewer.name = Auto-Brewer
 tile.mfr.machine.fruitpicker.name = Fruit Picker
+tile.mfr.machine.blockplacer.name = Block Placer
+tile.mfr.machine.mobcounter.name = Mob Counter
 
 tile.mfr.conveyor.default.name = Conveyor Belt
 tile.mfr.conveyor.white.name = Conveyor Belt (White)
@@ -165,6 +167,10 @@ item.mfr.bucket.pinkslime.name = Pink Slime Bucket
 item.mfr.bucket.chocolatemilk.name = Chocolate Milk Bucket
 item.mfr.bucket.mushroomsoup.name = Mushroom Soup Bucket
 
+item.mfr.bucket.plasticcup.name = Plastic Cup
+item.mfr.bucket.plasticcup.prefix.name =
+item.mfr.bucket.plasticcup.suffix.name = Cup
+
 item.mfr.hammer.name = Precision Sledgehammer
 item.mfr.fertilizer.name = Industrial Fertilizer
 item.mfr.plastic.sheet.name = Plastic Sheets
@@ -197,6 +203,8 @@ item.mfr.meat.ingot.cooked.name = Cooked Meat Ingot
 item.mfr.meat.nugget.raw.name = Raw "Meat" Nugget
 item.mfr.meat.nugget.cooked.name = Cooked "Meat" Nugget
 item.mfr.pinkslimeball.name = Pink Slimeball
+item.mfr.rocket.name = Self-Propelled Anti Materiel Rocket
+item.mfr.rocketlauncher.name = SPAMR Launcher
 
 item.mfr.ceramicdye.white.name = Ceramic Dye (White)
 item.mfr.ceramicdye.orange.name = Ceramic Dye (Orange)
@@ -248,6 +256,15 @@ item.mfr.upgrade.logic.100.name = PRC LX-100 Logic Expansion Card
 item.mfr.upgrade.logic.300.name = PRC LX-300 Logic Expansion Card
 item.mfr.upgrade.logic.500.name = PRC LX-500 Logic Expansion Card
 
+item.mfr.needlegun.name = Needlegun
+item.mfr.needlegun.ammo.empty.name = Needlegun Magazine
+item.mfr.needlegun.ammo.standard.name = Needlegun Ammo (Needles)
+item.mfr.needlegun.ammo.lava.name = Needlegun Ammo (Lava)
+item.mfr.needlegun.ammo.sludge.name = Needlegun Ammo (Sludge)
+item.mfr.needlegun.ammo.sewage.name = Needlegun Ammo (Sewage)
+item.mfr.needlegun.ammo.fire.name = Needlegun Ammo (Fire)
+item.mfr.needlegun.ammo.anvil.name = Needlegun Ammo (Anvil)
+
 circuit.mfr.noop = (No-Op)
 circuit.mfr.adder.analog = Adder (Analog)
 circuit.mfr.adder.digital.full = Adder (Digital, Full)
@@ -271,6 +288,7 @@ circuit.mfr.fanout = Fanout
 circuit.mfr.flipflop.jk = JK-FlipFlop
 circuit.mfr.flipflop.t = T-FlipFlop
 circuit.mfr.inverter = Inverter
+circuit.mfr.latch.d.clocked = D-Latch (Clocked)
 circuit.mfr.latch.d.gated = D-Latch (Gated)
 circuit.mfr.latch.sr = SR-Latch
 circuit.mfr.latch.sr.gated = SR-Latch (Gated)
@@ -280,6 +298,8 @@ circuit.mfr.max.4 = Maximum (4-Input)
 circuit.mfr.min.2 = Minimum (2-Input)
 circuit.mfr.min.3 = Minimum (3-Input)
 circuit.mfr.min.4 = Minimum (4-Input)
+circuit.mfr.multipulse = Multipulse
+circuit.mfr.mux.16.analog = Mux (15-Input, Analog)
 circuit.mfr.mux.4 = Mux (4-Input)
 circuit.mfr.nand.2 = Nand (2-Input)
 circuit.mfr.nand.3 = Nand (3-Input)
@@ -313,3 +333,10 @@ circuit.mfr.xnor.4 = Xnor (4-Input)
 circuit.mfr.xor.2 = Xor (2-Input)
 circuit.mfr.xor.3 = Xor (3-Input)
 circuit.mfr.xor.4 = Xor (4-Input)
+
+death.attack.mfr.slaughterhouse=%1$s was processed into Liquid Meat
+death.attack.mfr.slaughterhouse.player=%1$s was doomed to be processed into Liquid Meat by %2$s
+death.attack.mfr.slaughterhouse.1=%1$s was processed into meat sauce
+death.attack.mfr.slaughterhouse.1.player=%1$s was doomed to be processed into meat sauce by %2$s
+death.attack.mfr.grinder=%1$s was ground to bits
+death.attack.mfr.grinder.player=%2$s ensured %1$s was ground to bits
