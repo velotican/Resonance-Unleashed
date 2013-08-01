@@ -3752,7 +3752,7 @@ Block. Unused ID: 3751
 Block. Unused ID: 3752
 Block. Unused ID: 3753
 Block. Unused ID: 3754
-Block. Name: tile.LeadBlock. ID: 3755
+Block. Unused ID: 3755
 Block. Unused ID: 3756
 Block. Unused ID: 3757
 Block. Unused ID: 3758
@@ -3969,7 +3969,7 @@ Block. Unused ID: 3968
 Block. Unused ID: 3969
 Block. Unused ID: 3970
 Block. Unused ID: 3971
-Block. Unused ID: 3972
+Block. Name: tile.basiccomponents:copperWire. ID: 3972
 Block. Unused ID: 3973
 Block. Unused ID: 3974
 Block. Unused ID: 3975
@@ -3977,22 +3977,22 @@ Block. Unused ID: 3976
 Block. Unused ID: 3977
 Block. Unused ID: 3978
 Block. Unused ID: 3979
-Block. Name: tile.RawWire. ID: 3980
-Block. Name: tile.InsulatedWire. ID: 3981
-Block. Name: tile.HiddenWire. ID: 3982
-Block. Name: tile.SwitchWire. ID: 3983
-Block. Name: tile.SwitchWireBlock. ID: 3984
+Block. Unused ID: 3980
+Block. Unused ID: 3981
+Block. Unused ID: 3982
+Block. Unused ID: 3983
+Block. Unused ID: 3984
 Block. Unused ID: 3985
 Block. Unused ID: 3986
-Block. Name: tile.advbatbox. ID: 3987
-Block. Name: tile.multimeter. ID: 3988
-Block. Name: tile.SilverOre. ID: 3989
-Block. Name: tile.insulator. ID: 3990
-Block. Name: tile.wiremill. ID: 3991
-Block. Name: tile.transformer. ID: 3992
-Block. Name: tile.Distribution. ID: 3993
+Block. Unused ID: 3987
+Block. Unused ID: 3988
+Block. Unused ID: 3989
+Block. Unused ID: 3990
+Block. Unused ID: 3991
+Block. Unused ID: 3992
+Block. Unused ID: 3993
 Block. Unused ID: 3994
-Block. Name: tile.LogisticsWire. ID: 3995
+Block. Unused ID: 3995
 Block. Unused ID: 3996
 Block. Unused ID: 3997
 Block. Unused ID: 3998
@@ -4089,8 +4089,8 @@ Block. Name: tile.gcewing.lighting:carbideFloodlight. ID: 4088
 Block. Name: tile.null. ID: 4089
 Block. Unused ID: 4090
 Block. Unused ID: 4091
-Block. Unused ID: 4092
-Block. Unused ID: 4093
+Block. Name: tile.interface. ID: 4092
+Block. Name: tile.mobMagnet. ID: 4093
 Block. Name: tile.stained. ID: 4094
 Block. Name: tile.atomicscience:oreUranium. ID: 4095
 Item. Unused ID: 4096
@@ -16223,15 +16223,15 @@ Item. Unused ID: 16222
 Item. Unused ID: 16223
 Item. Unused ID: 16224
 Item. Unused ID: 16225
-Item. Name: item.Upgrade. ID: 16226
-Item. Name: item.EliteBattery. ID: 16227
-Item. Name: item.UltimateBattery. ID: 16228
-Item. Name: item.Parts. ID: 16229
+Item. Unused ID: 16226
+Item. Unused ID: 16227
+Item. Unused ID: 16228
+Item. Unused ID: 16229
 Item. Unused ID: 16230
-Item. Name: item.AdvancedBattery. ID: 16231
+Item. Unused ID: 16231
 Item. Unused ID: 16232
 Item. Unused ID: 16233
-Item. Name: item.Multimeter. ID: 16234
+Item. Unused ID: 16234
 Item. Unused ID: 16235
 Item. Unused ID: 16236
 Item. Unused ID: 16237
@@ -21432,9 +21432,9 @@ Item. Name: item.scythe. ID: 21431
 Item. Name: item.rainwaterBottle. ID: 21432
 Item. Name: item.weatherCrystal. ID: 21433
 Item. Name: item.lovePotion. ID: 21434
-Item. Unused ID: 21435
-Item. Unused ID: 21436
-Item. Unused ID: 21437
+Item. Name: item.soulMould. ID: 21435
+Item. Name: item.connector. ID: 21436
+Item. Name: item.iceGlobe. ID: 21437
 Item. Unused ID: 21438
 Item. Unused ID: 21439
 Item. Unused ID: 21440

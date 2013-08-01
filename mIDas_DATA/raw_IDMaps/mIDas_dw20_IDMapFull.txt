@@ -577,10 +577,10 @@ Block. Unused ID: 576
 Block. Unused ID: 577
 Block. Unused ID: 578
 Block. Unused ID: 579
-Block. Unused ID: 580
-Block. Unused ID: 581
-Block. Unused ID: 582
-Block. Unused ID: 583
+Block. Name: tile.openperipheral.glassesbridge. ID: 580
+Block. Name: tile.openperipheral.proxyblock. ID: 581
+Block. Name: tile.openperipheral.playerinventory. ID: 582
+Block. Name: tile.openperipheral.ticketmachine. ID: 583
 Block. Unused ID: 584
 Block. Unused ID: 585
 Block. Unused ID: 586
@@ -1147,8 +1147,8 @@ Block. Unused ID: 1146
 Block. Unused ID: 1147
 Block. Unused ID: 1148
 Block. Unused ID: 1149
-Block. Unused ID: 1150
-Block. Unused ID: 1151
+Block. Name: tile.logisticsSolidBlock. ID: 1150
+Block. Name: tile.null. ID: 1151
 Block. Unused ID: 1152
 Block. Unused ID: 1153
 Block. Unused ID: 1154
@@ -1283,7 +1283,7 @@ Block. Name: tile.myst.unstable. ID: 1282
 Block. Name: tile.myst.writing_desk. ID: 1283
 Block. Name: tile.myst.inkmixer. ID: 1284
 Block. Name: tile.myst.bookbinder. ID: 1285
-Block. Unused ID: 1286
+Block. Name: tile.tile.ccmultipart. ID: 1286
 Block. Unused ID: 1287
 Block. Unused ID: 1288
 Block. Unused ID: 1289
@@ -1308,7 +1308,7 @@ Block. Unused ID: 1307
 Block. Unused ID: 1308
 Block. Unused ID: 1309
 Block. Unused ID: 1310
-Block. Unused ID: 1311
+Item. Name: item.openperipheral.glasses. ID: 1311
 Block. Unused ID: 1312
 Block. Unused ID: 1313
 Block. Unused ID: 1314
@@ -4090,9 +4090,9 @@ Block. Name: tile.null. ID: 4089
 Block. Name: tile.null. ID: 4090
 Block. Name: tile.tconstruct.stoneore. ID: 4091
 Block. Name: tile.nitorGas. ID: 4092
-Block. Name: tile.openccsensors.proximitysensor. ID: 4093
-Block. Name: tile.openccsensors.gauge. ID: 4094
-Block. Name: tile.openccsensors.sensor. ID: 4095
+Block. Unused ID: 4093
+Block. Unused ID: 4094
+Block. Unused ID: 4095
 Item. Unused ID: 4096
 Item. Unused ID: 4097
 Item. Unused ID: 4098
@@ -6354,13 +6354,13 @@ Item. Unused ID: 6353
 Item. Unused ID: 6354
 Item. Unused ID: 6355
 Item. Unused ID: 6356
-Item. Unused ID: 6357
-Item. Unused ID: 6358
-Item. Unused ID: 6359
-Item. Unused ID: 6360
-Item. Unused ID: 6361
-Item. Unused ID: 6362
-Item. Unused ID: 6363
+Item. Name: item.wrcbe_addons:triangulator. ID: 6357
+Item. Name: item.wrcbe_addons:remote. ID: 6358
+Item. Name: item.wrcbe_addons:sniffer. ID: 6359
+Item. Name: item.wrcbe_addons:wirelessmap. ID: 6360
+Item. Name: item.wrcbe_addons:tracker. ID: 6361
+Item. Name: item.wrcbe_addons:rep. ID: 6362
+Item. Name: item.wrcbe_addons:psniffer. ID: 6363
 Item. Unused ID: 6364
 Item. Unused ID: 6365
 Item. Unused ID: 6366
@@ -6403,13 +6403,13 @@ Item. Unused ID: 6402
 Item. Unused ID: 6403
 Item. Unused ID: 6404
 Item. Unused ID: 6405
-Item. Unused ID: 6406
-Item. Unused ID: 6407
-Item. Unused ID: 6408
-Item. Unused ID: 6409
-Item. Unused ID: 6410
-Item. Unused ID: 6411
-Item. Unused ID: 6412
+Item. Name: item.wrcbe_core:obsidianStick. ID: 6406
+Item. Name: item.wrcbe_core:stoneBowl. ID: 6407
+Item. Name: item.wrcbe_core:retherPearl. ID: 6408
+Item. Name: item.wrcbe_core:wirelessTransceiver. ID: 6409
+Item. Name: item.wrcbe_core:blazeTransceiver. ID: 6410
+Item. Name: item.wrcbe_core:recieverDish. ID: 6411
+Item. Name: item.wrcbe_core:blazeRecieverDish. ID: 6412
 Item. Unused ID: 6413
 Item. Unused ID: 6414
 Item. Unused ID: 6415
@@ -6423,7 +6423,7 @@ Item. Unused ID: 6422
 Item. Unused ID: 6423
 Item. Unused ID: 6424
 Item. Unused ID: 6425
-Item. Unused ID: 6426
+Item. Name: item.wrcbe_logic:wirelesspart. ID: 6426
 Item. Unused ID: 6427
 Item. Unused ID: 6428
 Item. Unused ID: 6429
@@ -7116,52 +7116,52 @@ Item. Unused ID: 7115
 Item. Unused ID: 7116
 Item. Unused ID: 7117
 Item. Unused ID: 7118
-Item. Unused ID: 7119
-Item. Unused ID: 7120
-Item. Unused ID: 7121
-Item. Unused ID: 7122
-Item. Unused ID: 7123
-Item. Unused ID: 7124
-Item. Unused ID: 7125
-Item. Unused ID: 7126
-Item. Unused ID: 7127
-Item. Unused ID: 7128
-Item. Unused ID: 7129
-Item. Unused ID: 7130
-Item. Unused ID: 7131
-Item. Unused ID: 7132
-Item. Unused ID: 7133
-Item. Unused ID: 7134
-Item. Unused ID: 7135
+Item. Name: item.brokenItem. ID: 7119
+Item. Name: item.logisticsLiquidContainer. ID: 7120
+Item. Name: item.upgradeManagerItem. ID: 7121
+Item. Name: item.itemUpgrade. ID: 7122
+Item. Name: item.logisticsParts. ID: 7123
+Item. Name: item.logisticsHUDGlasses. ID: 7124
+Item. Name: item.logisticsItemCard. ID: 7125
+Item. Name: item.itemDisk. ID: 7126
+Item. Name: item.itemModule. ID: 7127
+Item. Name: item.remoteOrdererItem. ID: 7128
+Item. Name: item.networkMonitorItem. ID: 7129
+Item. Name: item.PipeItemsBasicLogistics. ID: 7130
+Item. Name: item.PipeItemsRequestLogistics. ID: 7131
+Item. Name: item.PipeItemsProviderLogistics. ID: 7132
+Item. Name: item.PipeItemsCraftingLogistics. ID: 7133
+Item. Name: item.PipeItemsSatelliteLogistics. ID: 7134
+Item. Name: item.PipeItemsSupplierLogistics. ID: 7135
 Item. Unused ID: 7136
-Item. Unused ID: 7137
-Item. Unused ID: 7138
-Item. Unused ID: 7139
-Item. Unused ID: 7140
-Item. Unused ID: 7141
-Item. Unused ID: 7142
-Item. Unused ID: 7143
-Item. Unused ID: 7144
-Item. Unused ID: 7145
-Item. Unused ID: 7146
-Item. Unused ID: 7147
-Item. Unused ID: 7148
-Item. Unused ID: 7149
-Item. Unused ID: 7150
-Item. Unused ID: 7151
-Item. Unused ID: 7152
-Item. Unused ID: 7153
+Item. Name: item.PipeLogisticsChassiMk1. ID: 7137
+Item. Name: item.PipeLogisticsChassiMk2. ID: 7138
+Item. Name: item.PipeLogisticsChassiMk3. ID: 7139
+Item. Name: item.PipeLogisticsChassiMk4. ID: 7140
+Item. Name: item.PipeLogisticsChassiMk5. ID: 7141
+Item. Name: item.PipeItemsLiquidSupplier. ID: 7142
+Item. Name: item.PipeItemsCraftingLogisticsMk2. ID: 7143
+Item. Name: item.PipeItemsRequestLogisticsMk2. ID: 7144
+Item. Name: item.PipeItemsRemoteOrdererLogistics. ID: 7145
+Item. Name: item.PipeItemsProviderLogisticsMk2. ID: 7146
+Item. Name: item.PipeItemsApiaristAnalyser. ID: 7147
+Item. Name: item.PipeItemsApiaristSink. ID: 7148
+Item. Name: item.PipeItemsInvSysConnector. ID: 7149
+Item. Name: item.PipeItemsSystemEntranceLogistics. ID: 7150
+Item. Name: item.PipeItemsSystemDestinationLogistics. ID: 7151
+Item. Name: item.PipeItemsCraftingLogisticsMk3. ID: 7152
+Item. Name: item.PipeItemsFirewall. ID: 7153
 Item. Unused ID: 7154
 Item. Unused ID: 7155
-Item. Unused ID: 7156
-Item. Unused ID: 7157
-Item. Unused ID: 7158
-Item. Unused ID: 7159
-Item. Unused ID: 7160
-Item. Unused ID: 7161
-Item. Unused ID: 7162
-Item. Unused ID: 7163
-Item. Unused ID: 7164
+Item. Name: item.CraftingSignCreator. ID: 7156
+Item. Name: item.LogisticsLiquidConnectorPipe. ID: 7157
+Item. Name: item.PipeLiquidBasic. ID: 7158
+Item. Name: item.PipeLiquidInsertion. ID: 7159
+Item. Name: item.PipeLiquidProvider. ID: 7160
+Item. Name: item.PipeLiquidRequestLogistics. ID: 7161
+Item. Name: item.PipeLiquidExtractor. ID: 7162
+Item. Name: item.PipeLiquidSatellite. ID: 7163
+Item. Name: item.PipeLiquidSupplierMk2. ID: 7164
 Item. Unused ID: 7165
 Item. Unused ID: 7166
 Item. Unused ID: 7167
@@ -7739,8 +7739,8 @@ Item. Unused ID: 7738
 Item. Unused ID: 7739
 Item. Unused ID: 7740
 Item. Unused ID: 7741
-Item. Name: item.null. ID: 7742
-Item. Name: item.null. ID: 7743
+Item. Unused ID: 7742
+Item. Unused ID: 7743
 Item. Unused ID: 7744
 Item. Unused ID: 7745
 Item. Unused ID: 7746
@@ -25128,11 +25128,11 @@ Item. Unused ID: 25127
 Item. Unused ID: 25128
 Item. Unused ID: 25129
 Item. Unused ID: 25130
-Item. Unused ID: 25131
-Item. Unused ID: 25132
-Item. Unused ID: 25133
-Item. Unused ID: 25134
-Item. Unused ID: 25135
+Item. Name: item.null. ID: 25131
+Item. Name: item.microblock:sawStone. ID: 25132
+Item. Name: item.microblock:sawIron. ID: 25133
+Item. Name: item.microblock:sawDiamond. ID: 25134
+Item. Name: item.microblock:stoneRod. ID: 25135
 Item. Unused ID: 25136
 Item. Unused ID: 25137
 Item. Unused ID: 25138
