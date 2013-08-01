@@ -1,0 +1,7 @@
+As direct conversion between modpacks is no longer realistic, both because FTB no longer keeps its block/item IDs synced between packs and because Resonant Rise uses totally different IDs anyway, Resonant Unleashed contains support for the mIDas world converter.
+
+BACKUP YOUR WORLDS BEFORE ATTEMPTING CONVERSION!
+
+Currently, only conversions to Resonance Unleashed are directly supplied in the pack, but raw NEI dumps are provided for you to build your own patches yourself.
+
+Download mIDas and follow the instructions to convert your worlds.
