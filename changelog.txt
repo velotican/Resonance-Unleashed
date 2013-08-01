@@ -1,5 +1,19 @@
 == Changelog ==
 
+= 1.1.0.0 = 1 August 2013
+- Added support for:
+  * ForgeBackup
+  * Forge Multipart API
+  * Power Converters
+  * Wireless Redstone
+- Existing support updated to the latest versions of supported modpacks:
+  * FTB Unleashed [1.1.1]
+  * Direwolf20 1.5 Edition [1.1.1]
+  * Resonant Rise [0.9.9]
+- Withdrew support for Electric Expansion due to the mod being discontinued/redesigned
+- Removed surplus configs for mods not formally supported in RU
+- mIDas patches extended to support optionally updating from old versions of the config pack via mIDas instead of directly
+
 = 1.0.0.2 = 27 July 2013
 - Corrected reported ID conflict in Electric Expansion
 
