@@ -1,4 +1,4 @@
-== This config pack was last updated on 1 August 2013 ==
+== This config pack was last updated on 3 August 2013 ==
 
 Hi there! Before I explain any further, backup your worlds before installing this config pack, just in case! There's always a (really dumb) bug in Minecraft just waiting to be discovered, so daily backups are a good idea anyway provided you have the hard disk space.
 
