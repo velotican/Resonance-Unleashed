@@ -157,19 +157,19 @@ Block. Name: tile.stairsQuartz. ID: 156
 Block. Name: tile.activatorRail. ID: 157
 Block. Name: tile.dropper. ID: 158
 Block. Unused ID: 159
-Block. Unused ID: 160
-Block. Unused ID: 161
-Block. Unused ID: 162
-Block. Unused ID: 163
-Block. Unused ID: 164
-Block. Unused ID: 165
-Block. Unused ID: 166
-Block. Unused ID: 167
-Block. Unused ID: 168
-Block. Unused ID: 169
-Block. Unused ID: 170
-Block. Unused ID: 171
-Block. Unused ID: 172
+Block. Name: tile.bop.mud. ID: 160
+Block. Name: tile.bop.generic.dried_dirt. ID: 161
+Block. Name: tile.bop.redRocks. ID: 162
+Block. Name: tile.bop.ash. ID: 163
+Block. Name: tile.bop.generic.ash_stone. ID: 164
+Block. Name: tile.bop.generic.hard_ice. ID: 165
+Block. Name: tile.bop.originGrass. ID: 166
+Block. Name: tile.bop.generic.hard_sand. ID: 167
+Block. Name: tile.bop.generic.hard_dirt. ID: 168
+Block. Name: tile.TaintedSoil. ID: 169
+Block. Name: tile.HeatSand. ID: 170
+Block. Name: tile.bop.holyStone. ID: 171
+Block. Name: tile.bop.generic.crag_rock. ID: 172
 Block. Unused ID: 173
 Block. Unused ID: 174
 Block. Unused ID: 175
@@ -185,20 +185,20 @@ Block. Unused ID: 184
 Block. Unused ID: 185
 Block. Unused ID: 186
 Block. Unused ID: 187
-Block. Unused ID: 188
+Block. Name: tile.mixedsand. ID: 188
 Block. Unused ID: 189
 Block. Unused ID: 190
 Block. Unused ID: 191
 Block. Unused ID: 192
 Block. Unused ID: 193
-Block. Unused ID: 194
+Block. Name: tile.null. ID: 194
 Block. Unused ID: 195
 Block. Unused ID: 196
 Block. Unused ID: 197
-Block. Unused ID: 198
+Block. Name: tile.mixedDirt. ID: 198
 Block. Unused ID: 199
-Block. Unused ID: 200
-Block. Unused ID: 201
+Block. Name: tile.BlockLimbo. ID: 200
+Block. Name: tile.blockDimWallPerm. ID: 201
 Block. Unused ID: 202
 Block. Unused ID: 203
 Block. Unused ID: 204
@@ -207,9 +207,9 @@ Block. Unused ID: 206
 Block. Unused ID: 207
 Block. Unused ID: 208
 Block. Unused ID: 209
-Block. Unused ID: 210
-Block. Unused ID: 211
-Block. Unused ID: 212
+Block. Name: tile.igneousStone. ID: 210
+Block. Name: tile.metamorphicStone. ID: 211
+Block. Name: tile.sedimentaryStone. ID: 212
 Block. Unused ID: 213
 Block. Unused ID: 214
 Block. Unused ID: 215
@@ -249,10 +249,10 @@ Block. Unused ID: 248
 Block. Unused ID: 249
 Block. Name: blockMachine. ID: 250
 Block. Name: tile.chickenChunkLoader. ID: 251
-Block. Name: tile.HeatSand. ID: 252
-Block. Name: tile.TaintedSoil. ID: 253
-Block. Name: tile.enderchest. ID: 254
-Block. Unused ID: 255
+Block. Name: tile.enderchest. ID: 252
+Block. Unused ID: 253
+Block. Name: tile.bop.generic.holy_dirt. ID: 254
+Block. Name: tile.bop.holyGrass. ID: 255
 Item. Name: item.shovelIron. ID: 256
 Item. Name: item.pickaxeIron. ID: 257
 Item. Name: item.hatchetIron. ID: 258
@@ -497,7 +497,7 @@ Block. Unused ID: 496
 Block. Unused ID: 497
 Block. Unused ID: 498
 Block. Unused ID: 499
-Block. Unused ID: 500
+Block. Name: tile.SolderingStation. ID: 500
 Block. Unused ID: 501
 Block. Unused ID: 502
 Block. Unused ID: 503
@@ -561,7 +561,7 @@ Block. Unused ID: 560
 Block. Unused ID: 561
 Block. Unused ID: 562
 Block. Unused ID: 563
-Block. Unused ID: 564
+Block. Name: tile.null. ID: 564
 Block. Unused ID: 565
 Block. Unused ID: 566
 Block. Unused ID: 567
@@ -803,7 +803,7 @@ Block. Unused ID: 802
 Block. Unused ID: 803
 Block. Unused ID: 804
 Block. Unused ID: 805
-Block. Unused ID: 806
+Item. Name: item.ligniteCoal. ID: 806
 Block. Unused ID: 807
 Block. Unused ID: 808
 Block. Unused ID: 809
@@ -879,7 +879,7 @@ Block. Unused ID: 878
 Block. Unused ID: 879
 Block. Unused ID: 880
 Block. Unused ID: 881
-Block. Unused ID: 882
+Block. Name: tile.immibis/redlogic:lamp.cube.i. ID: 882
 Block. Unused ID: 883
 Block. Unused ID: 884
 Block. Unused ID: 885
@@ -898,9 +898,9 @@ Block. Unused ID: 897
 Block. Unused ID: 898
 Block. Unused ID: 899
 Block. Name: tile.null. ID: 900
-Block. Name: tile.SC2BlockCargoManager. ID: 901
-Block. Name: tile.SC2BlockCartAssembler. ID: 902
-Block. Name: tile.SC2BlockJunction. ID: 903
+Block. Name: tile.null. ID: 901
+Block. Name: tile.null. ID: 902
+Block. Name: tile.null. ID: 903
 Block. Name: tile.SC2BlockAdvDetector. ID: 904
 Block. Name: tile.SC2BlockActivator. ID: 905
 Block. Name: tile.SC2BlockDistributor. ID: 906
@@ -908,9 +908,9 @@ Block. Name: tile.SC2BlockDetector. ID: 907
 Block. Name: tile.BlockUpgrade. ID: 908
 Block. Name: tile.SC2BlockLiquidManager. ID: 909
 Block. Name: tile.null. ID: 910
-Block. Unused ID: 911
-Block. Unused ID: 912
-Block. Unused ID: 913
+Block. Name: tile.SC2BlockCargoManager. ID: 911
+Block. Name: tile.SC2BlockCartAssembler. ID: 912
+Block. Name: tile.SC2BlockJunction. ID: 913
 Block. Unused ID: 914
 Block. Unused ID: 915
 Block. Unused ID: 916
@@ -947,17 +947,17 @@ Block. Unused ID: 946
 Block. Unused ID: 947
 Block. Unused ID: 948
 Block. Unused ID: 949
-Block. Unused ID: 950
-Block. Unused ID: 951
-Block. Unused ID: 952
-Block. Unused ID: 953
-Block. Unused ID: 954
-Block. Unused ID: 955
-Block. Unused ID: 956
-Block. Unused ID: 957
-Block. Unused ID: 958
+Block. Name: tile.brOre. ID: 950
+Block. Name: tile.yelloriumFuelRod. ID: 951
+Block. Name: tile.blockReactorPart. ID: 952
+Block. Name: tile.blockReactorControlRod. ID: 953
+Block. Name: tile.liquid.yellorium.still. ID: 954
+Block. Name: tile.liquid.cyanite.still. ID: 955
+Block. Name: tile.liquid.fuelColumn.still. ID: 956
+Block. Name: tile.blockReactorGlass. ID: 957
+Block. Name: tile.blockBRSmallMachine. ID: 958
 Block. Unused ID: 959
-Block. Unused ID: 960
+Block. Name: tile.immibis/chunkloader:chunkloader. ID: 960
 Block. Unused ID: 961
 Block. Unused ID: 962
 Block. Unused ID: 963
@@ -1107,8 +1107,8 @@ Block. Unused ID: 1106
 Block. Unused ID: 1107
 Block. Unused ID: 1108
 Block. Unused ID: 1109
-Block. Unused ID: 1110
-Block. Unused ID: 1111
+Block. Name: tile.logisticsSolidBlock. ID: 1110
+Block. Name: tile.null. ID: 1111
 Block. Unused ID: 1112
 Block. Unused ID: 1113
 Block. Unused ID: 1114
@@ -1127,10 +1127,10 @@ Block. Unused ID: 1126
 Block. Unused ID: 1127
 Block. Unused ID: 1128
 Block. Unused ID: 1129
-Block. Unused ID: 1130
-Block. Unused ID: 1131
-Block. Unused ID: 1132
-Block. Unused ID: 1133
+Block. Name: tile.highTempMachine. ID: 1130
+Block. Name: tile.blockReactor. ID: 1131
+Block. Name: tile.blockReactorChamber. ID: 1132
+Block. Name: tile.blockReactorRegulator. ID: 1133
 Block. Unused ID: 1134
 Block. Unused ID: 1135
 Block. Unused ID: 1136
@@ -1147,8 +1147,8 @@ Block. Unused ID: 1146
 Block. Unused ID: 1147
 Block. Unused ID: 1148
 Block. Unused ID: 1149
-Block. Name: tile.logisticsSolidBlock. ID: 1150
-Block. Name: tile.null. ID: 1151
+Block. Unused ID: 1150
+Block. Unused ID: 1151
 Block. Unused ID: 1152
 Block. Unused ID: 1153
 Block. Unused ID: 1154
@@ -1373,12 +1373,12 @@ Block. Unused ID: 1372
 Block. Unused ID: 1373
 Block. Unused ID: 1374
 Block. Name: tile.null. ID: 1375
-Block. Name: tile.for.lepidopterology. ID: 1376
+Block. Unused ID: 1376
 Block. Name: tile.for.arboriculture. ID: 1377
 Block. Name: tile.candle. ID: 1378
 Block. Name: tile.stump. ID: 1379
 Block. Name: tile.for.planks. ID: 1380
-Block. Name: tile.stained. ID: 1381
+Block. Unused ID: 1381
 Block. Name: tile.alveary. ID: 1382
 Block. Unused ID: 1383
 Block. Unused ID: 1384
@@ -1416,8 +1416,8 @@ Block. Name: tile.for.slabs3. ID: 1415
 Block. Unused ID: 1416
 Block. Name: tile.for.planks2. ID: 1417
 Block. Name: tile.for.fences2. ID: 1418
-Block. Unused ID: 1419
-Block. Unused ID: 1420
+Block. Name: tile.for.lepidopterology. ID: 1419
+Block. Name: tile.stained. ID: 1420
 Block. Unused ID: 1421
 Block. Unused ID: 1422
 Block. Unused ID: 1423
@@ -1436,10 +1436,10 @@ Block. Unused ID: 1435
 Block. Unused ID: 1436
 Block. Unused ID: 1437
 Block. Unused ID: 1438
-Block. Unused ID: 1439
-Block. Unused ID: 1440
-Block. Unused ID: 1441
-Block. Unused ID: 1442
+Block. Name: tile.immibis.microblock.container. ID: 1439
+Block. Name: tile.netherores.ore.0. ID: 1440
+Block. Name: tile.netherores.hellfish. ID: 1441
+Block. Name: tile.netherores.ore.1. ID: 1442
 Block. Unused ID: 1443
 Block. Unused ID: 1444
 Block. Unused ID: 1445
@@ -1467,12 +1467,12 @@ Block. Unused ID: 1466
 Block. Name: tile.Decoration.BrickFancy. ID: 1467
 Block. Name: tile.ToolForge. ID: 1468
 Block. Unused ID: 1469
-Block. Name: tile.landmine. ID: 1470
+Block. Unused ID: 1470
 Block. Name: tile.ToolStation. ID: 1471
 Block. Name: tile.Frypan. ID: 1472
 Block. Name: tile.LavaTank. ID: 1473
 Block. Name: tile.Smeltery. ID: 1474
-Block. Name: tile.cage. ID: 1475
+Block. Name: tile.tconstruct.stoneore. ID: 1475
 Block. Name: tile.TConstruct.Soil. ID: 1476
 Block. Name: tile.SearedBlock. ID: 1477
 Block. Name: tile.tconstruct.metalblock. ID: 1478
@@ -1572,7 +1572,7 @@ Block. Unused ID: 1571
 Block. Unused ID: 1572
 Block. Unused ID: 1573
 Block. Unused ID: 1574
-Block. Unused ID: 1575
+Block. Name: tile.cage. ID: 1575
 Block. Unused ID: 1576
 Block. Unused ID: 1577
 Block. Unused ID: 1578
@@ -1620,7 +1620,7 @@ Block. Unused ID: 1619
 Block. Unused ID: 1620
 Block. Unused ID: 1621
 Block. Unused ID: 1622
-Block. Unused ID: 1623
+Block. Name: tile.immibis/infinitubes:cable. ID: 1623
 Block. Unused ID: 1624
 Block. Unused ID: 1625
 Block. Unused ID: 1626
@@ -1658,7 +1658,7 @@ Block. Unused ID: 1657
 Block. Unused ID: 1658
 Block. Unused ID: 1659
 Block. Unused ID: 1660
-Block. Unused ID: 1661
+Block. Name: tile.null. ID: 1661
 Block. Unused ID: 1662
 Block. Unused ID: 1663
 Block. Unused ID: 1664
@@ -1668,8 +1668,8 @@ Block. Unused ID: 1667
 Block. Unused ID: 1668
 Block. Unused ID: 1669
 Block. Unused ID: 1670
-Block. Unused ID: 1671
-Block. Unused ID: 1672
+Block. Name: tile.HSBiomassPlant. ID: 1671
+Block. Name: tile.HSBiomassBlock. ID: 1672
 Block. Unused ID: 1673
 Block. Unused ID: 1674
 Block. Unused ID: 1675
@@ -1687,7 +1687,7 @@ Block. Name: tile.mffs:interdictionMatrix. ID: 1686
 Block. Name: tile.mffs:manipulator. ID: 1687
 Block. Unused ID: 1688
 Block. Unused ID: 1689
-Block. Unused ID: 1690
+Block. Name: tile.null. ID: 1690
 Block. Unused ID: 1691
 Block. Unused ID: 1692
 Block. Unused ID: 1693
@@ -1738,7 +1738,7 @@ Block. Unused ID: 1737
 Block. Unused ID: 1738
 Block. Unused ID: 1739
 Block. Unused ID: 1740
-Block. Unused ID: 1741
+Block. Name: tile.null. ID: 1741
 Block. Unused ID: 1742
 Block. Unused ID: 1743
 Block. Unused ID: 1744
@@ -1805,7 +1805,7 @@ Block. Unused ID: 1804
 Block. Unused ID: 1805
 Block. Unused ID: 1806
 Block. Unused ID: 1807
-Block. Unused ID: 1808
+Block. Name: tile.null. ID: 1808
 Block. Unused ID: 1809
 Block. Unused ID: 1810
 Block. Unused ID: 1811
@@ -1897,15 +1897,15 @@ Block. Unused ID: 1896
 Block. Unused ID: 1897
 Block. Unused ID: 1898
 Block. Unused ID: 1899
-Block. Unused ID: 1900
-Block. Unused ID: 1901
-Block. Unused ID: 1902
-Block. Unused ID: 1903
-Block. Unused ID: 1904
-Block. Unused ID: 1905
-Block. Unused ID: 1906
-Block. Unused ID: 1907
-Block. Unused ID: 1908
+Block. Name: tile.powerOre. ID: 1900
+Block. Name: tile.forceStairs. ID: 1901
+Block. Name: block.forceInfuser. ID: 1902
+Block. Name: tile.forceBrick. ID: 1903
+Block. Name: tile.forceLog. ID: 1904
+Block. Name: tile.forceLeaves. ID: 1905
+Block. Name: tile.forceSapling. ID: 1906
+Block. Name: tile.forceEngine. ID: 1907
+Block. Name: tile.forceSlab. ID: 1908
 Block. Unused ID: 1909
 Block. Unused ID: 1910
 Block. Unused ID: 1911
@@ -1917,72 +1917,72 @@ Block. Unused ID: 1916
 Block. Unused ID: 1917
 Block. Unused ID: 1918
 Block. Unused ID: 1919
-Block. Unused ID: 1920
-Block. Unused ID: 1921
-Block. Unused ID: 1922
-Block. Unused ID: 1923
-Block. Unused ID: 1924
-Block. Unused ID: 1925
-Block. Unused ID: 1926
-Block. Unused ID: 1927
-Block. Unused ID: 1928
-Block. Unused ID: 1929
-Block. Unused ID: 1930
-Block. Unused ID: 1931
-Block. Unused ID: 1932
-Block. Unused ID: 1933
-Block. Unused ID: 1934
-Block. Unused ID: 1935
-Block. Unused ID: 1936
-Block. Unused ID: 1937
-Block. Unused ID: 1938
-Block. Unused ID: 1939
-Block. Unused ID: 1940
-Block. Unused ID: 1941
-Block. Unused ID: 1942
-Block. Unused ID: 1943
+Block. Name: tile.bop.plants. ID: 1920
+Block. Name: tile.bop.flowers. ID: 1921
+Block. Name: tile.bop.willow. ID: 1922
+Block. Name: tile.bop.leaves1. ID: 1923
+Block. Name: tile.bop.leaves2. ID: 1924
+Block. Name: tile.bop.foliage. ID: 1925
+Block. Name: tile.bop.leavesFruit. ID: 1926
+Block. Name: tile.bop.bamboo. ID: 1927
+Block. Name: tile.bop.generic.mud_brick. ID: 1928
+Block. Name: tile.bop.mudBricksStairs. ID: 1929
+Block. Name: tile.bop.stoneDoubleSlab. ID: 1930
+Block. Name: tile.bop.stoneSingleSlab. ID: 1931
+Block. Name: tile.bop.treeMoss. ID: 1932
+Block. Name: tile.bop.wood1. ID: 1933
+Block. Name: tile.bop.wood2. ID: 1934
+Block. Name: tile.bop.wood3. ID: 1935
+Block. Name: tile.bop.petals. ID: 1936
+Block. Name: tile.bop.saplings. ID: 1937
+Block. Name: tile.bop.colorizedSaplings. ID: 1938
+Block. Name: tile.bop.redCobbleStairs. ID: 1939
+Block. Name: tile.bop.redBricksStairs. ID: 1940
+Block. Name: tile.bop.promisedPortal. ID: 1941
+Block. Name: tile.bop.amethystOre. ID: 1942
+Block. Name: tile.bop.ivy. ID: 1943
 Block. Unused ID: 1944
 Block. Unused ID: 1945
 Block. Unused ID: 1946
-Block. Unused ID: 1947
-Block. Unused ID: 1948
-Block. Unused ID: 1949
-Block. Unused ID: 1950
-Block. Unused ID: 1951
-Block. Unused ID: 1952
-Block. Unused ID: 1953
-Block. Unused ID: 1954
-Block. Unused ID: 1955
-Block. Unused ID: 1956
-Block. Unused ID: 1957
-Block. Unused ID: 1958
-Block. Unused ID: 1959
-Block. Unused ID: 1960
-Block. Unused ID: 1961
-Block. Unused ID: 1962
-Block. Unused ID: 1963
-Block. Unused ID: 1964
-Block. Unused ID: 1965
-Block. Unused ID: 1966
-Block. Unused ID: 1967
-Block. Unused ID: 1968
-Block. Unused ID: 1969
+Block. Name: tile.bop.planks. ID: 1947
+Block. Name: tile.bop.woodenDoubleSlab1. ID: 1948
+Block. Name: tile.bop.woodenSingleSlab1. ID: 1949
+Block. Name: tile.bop.woodenDoubleSlab2. ID: 1950
+Block. Name: tile.bop.woodenSingleSlab2. ID: 1951
+Block. Name: tile.bop.acaciaStairs. ID: 1952
+Block. Name: tile.bop.cherryStairs. ID: 1953
+Block. Name: tile.bop.darkStairs. ID: 1954
+Block. Name: tile.bop.firStairs. ID: 1955
+Block. Name: tile.bop.holyStairs. ID: 1956
+Block. Name: tile.bop.magicStairs. ID: 1957
+Block. Name: tile.bop.mangroveStairs. ID: 1958
+Block. Name: tile.bop.palmStairs. ID: 1959
+Block. Name: tile.bop.redwoodStairs. ID: 1960
+Block. Name: tile.bop.willowStairs. ID: 1961
+Block. Name: tile.bop.leavesColorized. ID: 1962
+Block. Name: tile.bop.generic.crystal. ID: 1963
+Block. Name: tile.bop.cloud. ID: 1964
+Block. Name: tile.bop.holyCobbleStairs. ID: 1965
+Block. Name: tile.bop.holyBricksStairs. ID: 1966
+Block. Name: tile.bop.mushrooms. ID: 1967
+Block. Name: tile.bop.bones. ID: 1968
+Block. Name: tile.bop.coral. ID: 1969
 Block. Unused ID: 1970
-Block. Unused ID: 1971
+Block. Name: tile.bop.springWater. ID: 1971
 Block. Unused ID: 1972
-Block. Unused ID: 1973
-Block. Unused ID: 1974
-Block. Unused ID: 1975
-Block. Unused ID: 1976
-Block. Unused ID: 1977
-Block. Unused ID: 1978
-Block. Unused ID: 1979
-Block. Unused ID: 1980
-Block. Unused ID: 1981
+Block. Name: tile.bop.liquidPoison. ID: 1973
+Block. Name: tile.bop.wood4. ID: 1974
+Block. Name: tile.bop.pineStairs. ID: 1975
+Block. Name: tile.bop.hellBarkStairs. ID: 1976
+Block. Name: tile.bop.jacarandaStairs. ID: 1977
+Block. Name: tile.bop.glass. ID: 1978
+Block. Name: tile.bop.altar. ID: 1979
+Block. Name: tile.bop.puddle. ID: 1980
+Block. Name: tile.bop.grave. ID: 1981
 Block. Unused ID: 1982
 Block. Unused ID: 1983
 Block. Unused ID: 1984
-Block. Unused ID: 1985
+Block. Name: tile.bop.moss. ID: 1985
 Block. Unused ID: 1986
 Block. Unused ID: 1987
 Block. Unused ID: 1988
@@ -2033,7 +2033,7 @@ Block. Unused ID: 2032
 Block. Unused ID: 2033
 Block. Unused ID: 2034
 Block. Unused ID: 2035
-Block. Unused ID: 2036
+Block. Name: tile.chainFence. ID: 2036
 Block. Unused ID: 2037
 Block. Unused ID: 2038
 Block. Unused ID: 2039
@@ -2042,7 +2042,7 @@ Block. Unused ID: 2041
 Block. Unused ID: 2042
 Block. Unused ID: 2043
 Block. Unused ID: 2044
-Block. Unused ID: 2045
+Block. Name: tile.sandbag. ID: 2045
 Block. Unused ID: 2046
 Block. Unused ID: 2047
 Block. Unused ID: 2048
@@ -2067,16 +2067,16 @@ Block. Unused ID: 2066
 Block. Unused ID: 2067
 Block. Unused ID: 2068
 Block. Unused ID: 2069
-Block. Unused ID: 2070
-Block. Unused ID: 2071
+Block. Name: tile.dimDoor. ID: 2070
+Block. Name: tile.dimHatch. ID: 2071
 Block. Unused ID: 2072
-Block. Unused ID: 2073
+Block. Name: tile.blockDimWall. ID: 2073
 Block. Unused ID: 2074
-Block. Unused ID: 2075
+Block. Name: tile.dimDoorWarp. ID: 2075
 Block. Unused ID: 2076
-Block. Unused ID: 2077
-Block. Unused ID: 2078
-Block. Unused ID: 2079
+Block. Name: tile.rift. ID: 2077
+Block. Name: tile.chaosDoor. ID: 2078
+Block. Name: tile.transientDoor. ID: 2079
 Block. Unused ID: 2080
 Block. Unused ID: 2081
 Block. Unused ID: 2082
@@ -2107,15 +2107,15 @@ Block. Unused ID: 2106
 Block. Unused ID: 2107
 Block. Unused ID: 2108
 Block. Unused ID: 2109
-Block. Unused ID: 2110
-Block. Unused ID: 2111
-Block. Unused ID: 2112
-Block. Unused ID: 2113
-Block. Unused ID: 2114
-Block. Unused ID: 2115
-Block. Unused ID: 2116
-Block. Unused ID: 2117
-Block. Unused ID: 2118
+Block. Name: tile.igneousCobblestone. ID: 2110
+Block. Name: tile.metamorphicCobblestone. ID: 2111
+Block. Name: tile.igneousStoneBrick. ID: 2112
+Block. Name: tile.metamorphicStoneBrick. ID: 2113
+Block. Name: tile.anthraciteCoal. ID: 2114
+Block. Name: tile.igneousBrickSlab. ID: 2115
+Block. Name: tile.igneousBrickSlabFull. ID: 2116
+Block. Name: tile.metamorphicBrickSlab. ID: 2117
+Block. Name: tile.metamorphicBrickSlabFull. ID: 2118
 Block. Unused ID: 2119
 Block. Unused ID: 2120
 Block. Unused ID: 2121
@@ -2145,8 +2145,8 @@ Block. Unused ID: 2144
 Block. Unused ID: 2145
 Block. Unused ID: 2146
 Block. Unused ID: 2147
-Block. Unused ID: 2148
-Block. Unused ID: 2149
+Block. Name: tile.mobMagnet. ID: 2148
+Block. Name: tile.interface. ID: 2149
 Block. Name: tile.glowstoneGas. ID: 2150
 Block. Name: tile.transmutator. ID: 2151
 Block. Name: tile.wardChest. ID: 2152
@@ -2189,7 +2189,7 @@ Block. Unused ID: 2188
 Block. Unused ID: 2189
 Block. Unused ID: 2190
 Block. Unused ID: 2191
-Block. Unused ID: 2192
+Block. Name: tile.nitorGas. ID: 2192
 Block. Unused ID: 2193
 Block. Unused ID: 2194
 Block. Unused ID: 2195
@@ -2290,25 +2290,25 @@ Block. Unused ID: 2289
 Block. Unused ID: 2290
 Block. Unused ID: 2291
 Block. Unused ID: 2292
-Block. Unused ID: 2293
-Block. Unused ID: 2294
+Item. Name: item.chainSheet. ID: 2293
+Item. Name: item.fenceWire. ID: 2294
 Block. Unused ID: 2295
 Block. Unused ID: 2296
 Block. Unused ID: 2297
 Block. Unused ID: 2298
 Block. Unused ID: 2299
 Block. Unused ID: 2300
-Block. Unused ID: 2301
-Block. Unused ID: 2302
-Block. Unused ID: 2303
-Block. Unused ID: 2304
-Block. Unused ID: 2305
-Block. Unused ID: 2306
-Block. Unused ID: 2307
-Block. Unused ID: 2308
-Block. Unused ID: 2309
-Block. Unused ID: 2310
-Block. Unused ID: 2311
+Block. Name: tile.BiblioWoodBookcase. ID: 2301
+Block. Name: tile.BiblioWooddesk. ID: 2302
+Block. Name: tile.BiblioWoodcase0. ID: 2303
+Block. Name: tile.BiblioWoodcase1. ID: 2304
+Block. Name: tile.BiblioWoodcase2. ID: 2305
+Block. Name: tile.BiblioWoodcase3. ID: 2306
+Block. Name: tile.BiblioWoodpotshelf. ID: 2307
+Block. Name: tile.BiblioWoodshelf. ID: 2308
+Block. Name: tile.BiblioWoodtable. ID: 2309
+Block. Name: tile.BiblioWoodrack. ID: 2310
+Block. Name: tile.BiblioWoodlabel. ID: 2311
 Block. Name: tile.BiblioWoodFstBookcase. ID: 2312
 Block. Name: tile.BiblioWoodFstBookcase2. ID: 2313
 Block. Name: tile.BiblioWoodFstdesk. ID: 2314
@@ -2388,8 +2388,8 @@ Block. Unused ID: 2387
 Block. Unused ID: 2388
 Block. Unused ID: 2389
 Block. Unused ID: 2390
-Block. Unused ID: 2391
-Block. Unused ID: 2392
+Block. Name: tile.vendingMachine. ID: 2391
+Block. Name: tile.vendingMachineAdvanced. ID: 2392
 Block. Unused ID: 2393
 Block. Unused ID: 2394
 Block. Unused ID: 2395
@@ -2474,8 +2474,8 @@ Block. Unused ID: 2473
 Block. Unused ID: 2474
 Block. Unused ID: 2475
 Block. Unused ID: 2476
-Block. Name: tile.mmmPowersuits.tinkerTable. ID: 2477
-Block. Name: tile.mmmPowersuits.luxCapacitor. ID: 2478
+Block. Name: tile.tinkerTable. ID: 2477
+Block. Name: tile.luxCapacitor. ID: 2478
 Block. Unused ID: 2479
 Block. Unused ID: 2480
 Block. Unused ID: 2481
@@ -2488,7 +2488,7 @@ Block. Unused ID: 2487
 Block. Unused ID: 2488
 Block. Unused ID: 2489
 Block. Unused ID: 2490
-Block. Unused ID: 2491
+Block. Name: tile.AdvPwrMan. ID: 2491
 Block. Unused ID: 2492
 Block. Unused ID: 2493
 Block. Unused ID: 2494
@@ -2647,27 +2647,27 @@ Block. Unused ID: 2646
 Block. Unused ID: 2647
 Block. Unused ID: 2648
 Block. Unused ID: 2649
-Block. Unused ID: 2650
-Block. Unused ID: 2651
-Block. Unused ID: 2652
-Block. Unused ID: 2653
+Block. Name: tile.HSSoulAltar. ID: 2650
+Block. Name: tile.HSBloodAltar. ID: 2651
+Block. Name: tile.HSSoulCrucible. ID: 2652
+Block. Name: tile.HSBloodCrucible. ID: 2653
 Block. Unused ID: 2654
-Block. Unused ID: 2655
-Block. Unused ID: 2656
-Block. Unused ID: 2657
-Block. Unused ID: 2658
-Block. Unused ID: 2659
-Block. Unused ID: 2660
+Block. Name: tile.HSSoulLight. ID: 2655
+Block. Name: tile.HSSplashBloodBlock. ID: 2656
+Block. Name: tile.HSSkullBlock. ID: 2657
+Block. Name: tile.HSSoulweaveClothBlock. ID: 2658
+Block. Name: tile.HSBloodweaveClothBlock. ID: 2659
+Block. Name: tile.HSLivingmetalBlock. ID: 2660
 Block. Unused ID: 2661
 Block. Unused ID: 2662
-Block. Unused ID: 2663
+Block. Name: tile.HSSpectralClothBlock. ID: 2663
 Block. Unused ID: 2664
 Block. Unused ID: 2665
 Block. Unused ID: 2666
 Block. Unused ID: 2667
 Block. Unused ID: 2668
 Block. Unused ID: 2669
-Block. Unused ID: 2670
+Block. Name: tile.HSCreepBlock. ID: 2670
 Block. Name: tile.null. ID: 2671
 Block. Name: tile.null. ID: 2672
 Block. Unused ID: 2673
@@ -2724,10 +2724,10 @@ Block. Unused ID: 2723
 Block. Unused ID: 2724
 Block. Unused ID: 2725
 Block. Unused ID: 2726
-Block. Unused ID: 2727
-Block. Unused ID: 2728
-Block. Unused ID: 2729
-Block. Unused ID: 2730
+Block. Name: tile.altarActive. ID: 2727
+Block. Name: tile.altarIdle. ID: 2728
+Block. Name: tile.lilypad. ID: 2729
+Block. Name: tile.wraithNode. ID: 2730
 Block. Unused ID: 2731
 Block. Unused ID: 2732
 Block. Unused ID: 2733
@@ -2796,7 +2796,7 @@ Block. Unused ID: 2795
 Block. Unused ID: 2796
 Block. Unused ID: 2797
 Block. Unused ID: 2798
-Block. Unused ID: 2799
+Block. Name: tile.pondScum. ID: 2799
 Block. Unused ID: 2800
 Block. Unused ID: 2801
 Block. Unused ID: 2802
@@ -2847,12 +2847,12 @@ Block. Unused ID: 2846
 Block. Unused ID: 2847
 Block. Unused ID: 2848
 Block. Unused ID: 2849
-Block. Unused ID: 2850
-Block. Unused ID: 2851
-Block. Unused ID: 2852
-Block. Unused ID: 2853
-Block. Unused ID: 2854
-Block. Unused ID: 2855
+Block. Name: tile.powerconverters.common. ID: 2850
+Block. Name: tile.powerconverters.bc. ID: 2851
+Block. Name: tile.powerconverters.ic2. ID: 2852
+Block. Name: tile.powerconverters.steam. ID: 2853
+Block. Name: tile.powerconverters.ue. ID: 2854
+Block. Name: tile.powerconverters.fz. ID: 2855
 Block. Unused ID: 2856
 Block. Unused ID: 2857
 Block. Unused ID: 2858
@@ -2999,12 +2999,12 @@ Block. Unused ID: 2998
 Block. Unused ID: 2999
 Block. Unused ID: 3000
 Block. Unused ID: 3001
-Block. Unused ID: 3002
-Block. Unused ID: 3003
-Block. Unused ID: 3004
-Block. Unused ID: 3005
-Block. Unused ID: 3006
-Block. Unused ID: 3007
+Block. Name: tile.OreBlock. ID: 3002
+Block. Name: tile.ObsidianTNT. ID: 3003
+Block. Name: tile.EnergyCube. ID: 3004
+Block. Name: tile.BoundingBlock. ID: 3005
+Block. Name: tile.GasTank. ID: 3006
+Block. Name: tile.Transmitter. ID: 3007
 Block. Unused ID: 3008
 Block. Unused ID: 3009
 Block. Unused ID: 3010
@@ -3027,19 +3027,19 @@ Block. Unused ID: 3026
 Block. Unused ID: 3027
 Block. Unused ID: 3028
 Block. Unused ID: 3029
-Block. Unused ID: 3030
-Block. Unused ID: 3031
+Block. Name: tile.conveyorBelt. ID: 3030
+Block. Name: tile.manipulator. ID: 3031
 Block. Unused ID: 3032
-Block. Unused ID: 3033
-Block. Unused ID: 3034
-Block. Unused ID: 3035
-Block. Unused ID: 3036
-Block. Unused ID: 3037
-Block. Unused ID: 3038
-Block. Unused ID: 3039
-Block. Unused ID: 3040
-Block. Unused ID: 3041
-Block. Unused ID: 3042
+Block. Name: tile.crate. ID: 3033
+Block. Name: tile.imprinter. ID: 3034
+Block. Name: tile.detector. ID: 3035
+Block. Name: tile.rejector. ID: 3036
+Block. Name: tile.encoder. ID: 3037
+Block. Name: tile.armbot. ID: 3038
+Block. Name: tile.multiBlock. ID: 3039
+Block. Name: tile.craneController. ID: 3040
+Block. Name: tile.craneFrame. ID: 3041
+Block. Name: tile.turntable. ID: 3042
 Block. Unused ID: 3043
 Block. Unused ID: 3044
 Block. Unused ID: 3045
@@ -3101,7 +3101,7 @@ Block. Name: tile.pff.liquid.pff.veggiejuice.name. ID: 3100
 Block. Name: tile.pff.liquid.pff.liquidpeat.name. ID: 3101
 Block. Unused ID: 3102
 Block. Unused ID: 3103
-Block. Unused ID: 3104
+Block. Name: tile.immibis/redlogic:lamp.cube.i. ID: 3104
 Block. Unused ID: 3105
 Block. Unused ID: 3106
 Block. Unused ID: 3107
@@ -3109,7 +3109,7 @@ Block. Unused ID: 3108
 Block. Unused ID: 3109
 Block. Unused ID: 3110
 Block. Unused ID: 3111
-Block. Unused ID: 3112
+Block. Name: tile.null. ID: 3112
 Block. Unused ID: 3113
 Block. Unused ID: 3114
 Block. Unused ID: 3115
@@ -3167,9 +3167,9 @@ Block. Unused ID: 3166
 Block. Unused ID: 3167
 Block. Unused ID: 3168
 Block. Unused ID: 3169
-Block. Unused ID: 3170
-Block. Unused ID: 3171
-Block. Unused ID: 3172
+Block. Name: tile.deflectorGenerator. ID: 3170
+Block. Name: tile.deflector. ID: 3171
+Block. Name: tile.machine. ID: 3172
 Block. Unused ID: 3173
 Block. Unused ID: 3174
 Block. Unused ID: 3175
@@ -3285,8 +3285,8 @@ Block. Name: tile.bookshelf. ID: 3284
 Block. Name: tile.fence. ID: 3285
 Block. Name: tile.GrassBlock. ID: 3286
 Block. Name: tile.GrassSlab. ID: 3287
-Block. Name: tile.plankSlab1. ID: 3288
-Block. Name: tile.plankSlab2. ID: 3289
+Block. Unused ID: 3288
+Block. Unused ID: 3289
 Block. Unused ID: 3290
 Block. Unused ID: 3291
 Block. Unused ID: 3292
@@ -3388,7 +3388,7 @@ Block. Unused ID: 3387
 Block. Unused ID: 3388
 Block. Unused ID: 3389
 Block. Unused ID: 3390
-Block. Unused ID: 3391
+Block. Name: tile.sign. ID: 3391
 Block. Unused ID: 3392
 Block. Unused ID: 3393
 Block. Unused ID: 3394
@@ -3411,7 +3411,7 @@ Block. Unused ID: 3410
 Block. Unused ID: 3411
 Block. Unused ID: 3412
 Block. Unused ID: 3413
-Block. Unused ID: 3414
+Block. Name: tile.null. ID: 3414
 Block. Unused ID: 3415
 Block. Unused ID: 3416
 Block. Unused ID: 3417
@@ -3426,8 +3426,8 @@ Block. Unused ID: 3425
 Block. Unused ID: 3426
 Block. Unused ID: 3427
 Block. Unused ID: 3428
-Block. Unused ID: 3429
-Block. Unused ID: 3430
+Item. Name: item.circuit. ID: 3429
+Item. Name: item.psu. ID: 3430
 Block. Unused ID: 3431
 Block. Unused ID: 3432
 Block. Unused ID: 3433
@@ -3499,7 +3499,7 @@ Block. Unused ID: 3498
 Block. Unused ID: 3499
 Block. Unused ID: 3500
 Block. Unused ID: 3501
-Block. Unused ID: 3502
+Block. Name: tile.immibis/redlogic:lamp.cube.d. ID: 3502
 Block. Unused ID: 3503
 Block. Unused ID: 3504
 Block. Unused ID: 3505
@@ -3514,8 +3514,8 @@ Block. Unused ID: 3513
 Block. Unused ID: 3514
 Block. Unused ID: 3515
 Block. Unused ID: 3516
-Block. Unused ID: 3517
-Block. Unused ID: 3518
+Block. Name: tile.icbm:turret. ID: 3517
+Block. Name: tile.icbm:turretPlatform. ID: 3518
 Block. Unused ID: 3519
 Block. Unused ID: 3520
 Block. Unused ID: 3521
@@ -3765,28 +3765,28 @@ Block. Unused ID: 3764
 Block. Unused ID: 3765
 Block. Unused ID: 3766
 Block. Unused ID: 3767
-Block. Unused ID: 3768
-Block. Unused ID: 3769
-Block. Unused ID: 3770
-Block. Unused ID: 3771
-Block. Unused ID: 3772
+Block. Name: tile.atomicscience:radioactive. ID: 3768
+Block. Name: tile.atomicscience:centrifuge. ID: 3769
+Block. Name: tile.atomicscience:fissionReactor. ID: 3770
+Block. Name: tile.atomicscience:turbine. ID: 3771
+Block. Name: tile.atomicscience:nuclearBoiler. ID: 3772
 Block. Unused ID: 3773
-Block. Unused ID: 3774
-Block. Unused ID: 3775
-Block. Unused ID: 3776
-Block. Unused ID: 3777
-Block. Unused ID: 3778
-Block. Unused ID: 3779
-Block. Unused ID: 3780
-Block. Unused ID: 3781
-Block. Unused ID: 3782
-Block. Unused ID: 3783
-Block. Unused ID: 3784
-Block. Unused ID: 3785
-Block. Unused ID: 3786
-Block. Unused ID: 3787
-Block. Unused ID: 3788
-Block. Unused ID: 3789
+Block. Name: tile.atomicscience:controlRod. ID: 3774
+Block. Name: tile.atomicscience:thermometer. ID: 3775
+Block. Name: tile.atomicscience:fusionReactor. ID: 3776
+Block. Name: tile.atomicscience:plasma. ID: 3777
+Block. Name: tile.atomicscience:electromagnet. ID: 3778
+Block. Name: tile.atomicscience:chemicalExtractor. ID: 3779
+Block. Name: tile.atomicscience:siren. ID: 3780
+Block. Name: tile.atomicscience:electromagnetGlass. ID: 3781
+Block. Name: tile.atomicscience:funnel. ID: 3782
+Block. Name: tile.atomicscience:accelerator. ID: 3783
+Block. Name: tile.atomicscience:instantBuilder. ID: 3784
+Block. Name: tile.atomicscience:fulmination. ID: 3785
+Block. Name: tile.atomicscience:atomicAssembler. ID: 3786
+Block. Name: tile.atomicscience:toxicWasteFlowing. ID: 3787
+Block. Name: tile.atomicscience:toxicWaste. ID: 3788
+Block. Name: tile.atomicscience:reactorTap. ID: 3789
 Block. Unused ID: 3790
 Block. Unused ID: 3791
 Block. Unused ID: 3792
@@ -3870,24 +3870,24 @@ Block. Unused ID: 3869
 Block. Unused ID: 3870
 Block. Unused ID: 3871
 Block. Unused ID: 3872
-Block. Unused ID: 3873
-Block. Unused ID: 3874
-Block. Unused ID: 3875
-Block. Unused ID: 3876
-Block. Unused ID: 3877
-Block. Unused ID: 3878
-Block. Unused ID: 3879
-Block. Unused ID: 3880
+Block. Name: tile.icbm:glassReinforced. ID: 3873
+Block. Name: tile.icbm:concrete. ID: 3874
+Block. Name: tile.icbm:camouflage. ID: 3875
+Block. Name: tile.icbm:spikes. ID: 3876
+Block. Name: tile.icbm:proximityDetector. ID: 3877
+Block. Name: tile.icbm:glassButton. ID: 3878
+Block. Name: tile.icbm:glassPressurePlate. ID: 3879
+Block. Name: tile.icbm:oreSulfur. ID: 3880
 Block. Unused ID: 3881
 Block. Unused ID: 3882
-Block. Unused ID: 3883
-Block. Unused ID: 3884
+Block. Name: tile.icbm:explosives. ID: 3883
+Block. Name: tile.icbm:machine. ID: 3884
 Block. Unused ID: 3885
-Block. Unused ID: 3886
+Block. Name: tile.multiBlock. ID: 3886
 Block. Unused ID: 3887
 Block. Unused ID: 3888
-Block. Unused ID: 3889
-Block. Unused ID: 3890
+Block. Name: tile.immibis/redlogic:lamp.cube.n. ID: 3889
+Block. Name: tile.immibis/redlogic:lamp.cube.n. ID: 3890
 Block. Unused ID: 3891
 Block. Unused ID: 3892
 Block. Unused ID: 3893
@@ -4029,7 +4029,7 @@ Block. Unused ID: 4028
 Block. Unused ID: 4029
 Block. Unused ID: 4030
 Block. Unused ID: 4031
-Block. Unused ID: 4032
+Block. Name: tile.null. ID: 4032
 Block. Unused ID: 4033
 Block. Unused ID: 4034
 Block. Unused ID: 4035
@@ -4045,9 +4045,9 @@ Block. Unused ID: 4044
 Block. Unused ID: 4045
 Block. Unused ID: 4046
 Block. Unused ID: 4047
-Block. Unused ID: 4048
-Block. Unused ID: 4049
-Block. Unused ID: 4050
+Block. Name: tile.Generator. ID: 4048
+Block. Name: tile.MachineBlock. ID: 4049
+Block. Name: tile.BasicBlock. ID: 4050
 Block. Unused ID: 4051
 Block. Unused ID: 4052
 Block. Unused ID: 4053
@@ -4067,8 +4067,8 @@ Block. Unused ID: 4066
 Block. Unused ID: 4067
 Block. Unused ID: 4068
 Block. Unused ID: 4069
-Block. Unused ID: 4070
-Block. Unused ID: 4071
+Block. Name: tile.modular_socket. ID: 4070
+Block. Name: tile.tempRS. ID: 4071
 Block. Unused ID: 4072
 Block. Unused ID: 4073
 Block. Unused ID: 4074
@@ -4081,18 +4081,18 @@ Block. Unused ID: 4080
 Block. Unused ID: 4081
 Block. Unused ID: 4082
 Block. Unused ID: 4083
-Block. Unused ID: 4084
-Block. Unused ID: 4085
-Block. Unused ID: 4086
-Block. Unused ID: 4087
-Block. Name: tile.null. ID: 4088
+Block. Name: tile.gcewing.lighting:ic2ElectricFloodlightOn. ID: 4084
+Block. Name: tile.gcewing.lighting:ic2ElectricFloodlight. ID: 4085
+Block. Name: tile.gcewing.lighting:floodlight. ID: 4086
+Block. Name: tile.gcewing.lighting:floodlightBeam. ID: 4087
+Block. Name: tile.gcewing.lighting:carbideFloodlight. ID: 4088
 Block. Name: tile.null. ID: 4089
-Block. Name: tile.null. ID: 4090
-Block. Name: tile.tconstruct.stoneore. ID: 4091
-Block. Name: tile.nitorGas. ID: 4092
-Block. Unused ID: 4093
-Block. Name: tile.interface. ID: 4094
-Block. Name: tile.mobMagnet. ID: 4095
+Block. Unused ID: 4090
+Block. Name: tile.openccsensors.proximitysensor. ID: 4091
+Block. Name: tile.openccsensors.gauge. ID: 4092
+Block. Name: tile.openccsensors.sensor. ID: 4093
+Block. Name: tile.blockThermalMonitor. ID: 4094
+Block. Name: tile.atomicscience:oreUranium. ID: 4095
 Item. Unused ID: 4096
 Item. Unused ID: 4097
 Item. Unused ID: 4098
@@ -4153,19 +4153,19 @@ Item. Unused ID: 4152
 Item. Unused ID: 4153
 Item. Unused ID: 4154
 Item. Unused ID: 4155
-Item. Unused ID: 4156
-Item. Unused ID: 4157
+Item. Name: item.icbm:poisonPowder. ID: 4156
+Item. Name: item.icbm:sulfur. ID: 4157
 Item. Unused ID: 4158
-Item. Unused ID: 4159
-Item. Unused ID: 4160
-Item. Unused ID: 4161
-Item. Unused ID: 4162
-Item. Unused ID: 4163
-Item. Unused ID: 4164
+Item. Name: icbm.missile. ID: 4159
+Item. Name: icbm.missile. ID: 4160
+Item. Name: item.icbm:defuser. ID: 4161
+Item. Name: item.icbm:radarGun. ID: 4162
+Item. Name: item.icbm:remoteDetonator. ID: 4163
+Item. Name: item.icbm:laserDesignator. ID: 4164
 Item. Unused ID: 4165
 Item. Unused ID: 4166
-Item. Unused ID: 4167
-Item. Unused ID: 4168
+Item. Name: item.icbm:rocketLauncher. ID: 4167
+Item. Name: icbm.grenade. ID: 4168
 Item. Unused ID: 4169
 Item. Unused ID: 4170
 Item. Unused ID: 4171
@@ -4353,11 +4353,11 @@ Item. Unused ID: 4352
 Item. Unused ID: 4353
 Item. Unused ID: 4354
 Item. Unused ID: 4355
-Item. Unused ID: 4356
-Item. Unused ID: 4357
-Item. Unused ID: 4358
-Item. Unused ID: 4359
-Item. Unused ID: 4360
+Item. Name: item.null. ID: 4356
+Item. Name: item.null. ID: 4357
+Item. Name: item.null. ID: 4358
+Item. Name: item.null. ID: 4359
+Item. Name: item.null. ID: 4360
 Item. Name: item.null. ID: 4361
 Item. Name: item.null. ID: 4362
 Item. Name: item.AppEng.Tools.EntropyAccelerator. ID: 4363
@@ -4393,8 +4393,8 @@ Item. Unused ID: 4392
 Item. Unused ID: 4393
 Item. Unused ID: 4394
 Item. Unused ID: 4395
-Item. Unused ID: 4396
-Item. Unused ID: 4397
+Item. Name: item.cell. ID: 4396
+Item. Name: item.cluster. ID: 4397
 Item. Unused ID: 4398
 Item. Unused ID: 4399
 Item. Unused ID: 4400
@@ -4405,7 +4405,7 @@ Item. Unused ID: 4404
 Item. Unused ID: 4405
 Item. Unused ID: 4406
 Item. Unused ID: 4407
-Item. Unused ID: 4408
+Item. Name: item.null. ID: 4408
 Item. Unused ID: 4409
 Item. Unused ID: 4410
 Item. Unused ID: 4411
@@ -4423,11 +4423,11 @@ Item. Unused ID: 4422
 Item. Unused ID: 4423
 Item. Unused ID: 4424
 Item. Unused ID: 4425
-Item. Unused ID: 4426
-Item. Unused ID: 4427
-Item. Unused ID: 4428
-Item. Unused ID: 4429
-Item. Unused ID: 4430
+Item. Name: item.socket_remote. ID: 4426
+Item. Name: item.socket_module. ID: 4427
+Item. Name: item.blankSide. ID: 4428
+Item. Name: item.eng_wrench. ID: 4429
+Item. Name: item.eng_rsWand. ID: 4430
 Item. Unused ID: 4431
 Item. Unused ID: 4432
 Item. Unused ID: 4433
@@ -4597,13 +4597,13 @@ Item. Unused ID: 4596
 Item. Unused ID: 4597
 Item. Unused ID: 4598
 Item. Unused ID: 4599
-Item. Name: item.null. ID: 4600
-Item. Name: item.null. ID: 4601
-Item. Name: item.null. ID: 4602
-Item. Name: item.null. ID: 4603
-Item. Name: item.null. ID: 4604
-Item. Name: item.null. ID: 4605
-Item. Name: item.null. ID: 4606
+Item. Unused ID: 4600
+Item. Unused ID: 4601
+Item. Unused ID: 4602
+Item. Unused ID: 4603
+Item. Unused ID: 4604
+Item. Unused ID: 4605
+Item. Unused ID: 4606
 Item. Unused ID: 4607
 Item. Unused ID: 4608
 Item. Unused ID: 4609
@@ -4699,7 +4699,7 @@ Item. Unused ID: 4698
 Item. Unused ID: 4699
 Item. Name: item.null. ID: 4700
 Item. Name: item.null. ID: 4701
-Item. Name: item.null. ID: 4702
+Item. Unused ID: 4702
 Item. Unused ID: 4703
 Item. Unused ID: 4704
 Item. Unused ID: 4705
@@ -5754,7 +5754,7 @@ Item. Unused ID: 5753
 Item. Unused ID: 5754
 Item. Unused ID: 5755
 Item. Unused ID: 5756
-Item. Unused ID: 5757
+Item. Name: item.fossilPiece. ID: 5757
 Item. Unused ID: 5758
 Item. Unused ID: 5759
 Item. Unused ID: 5760
@@ -5924,16 +5924,16 @@ Item. Unused ID: 5923
 Item. Unused ID: 5924
 Item. Unused ID: 5925
 Item. Unused ID: 5926
-Item. Unused ID: 5927
-Item. Unused ID: 5928
-Item. Unused ID: 5929
-Item. Unused ID: 5930
-Item. Unused ID: 5931
-Item. Unused ID: 5932
-Item. Unused ID: 5933
+Item. Name: item.itemRiftRemover. ID: 5927
+Item. Name: item.itemStableFabric. ID: 5928
+Item. Name: item.itemChaosDoor. ID: 5929
+Item. Name: item.itemDimDoor. ID: 5930
+Item. Name: item.itemLinkSignature. ID: 5931
+Item. Name: item.ItemRiftBlade. ID: 5932
+Item. Name: item.itemStabilizedRiftSig. ID: 5933
 Item. Unused ID: 5934
 Item. Unused ID: 5935
-Item. Unused ID: 5936
+Item. Name: item.itemDimDoorWarp. ID: 5936
 Item. Unused ID: 5937
 Item. Unused ID: 5938
 Item. Unused ID: 5939
@@ -6253,57 +6253,57 @@ Item. Unused ID: 6252
 Item. Unused ID: 6253
 Item. Unused ID: 6254
 Item. Unused ID: 6255
-Item. Unused ID: 6256
-Item. Unused ID: 6257
-Item. Unused ID: 6258
-Item. Unused ID: 6259
-Item. Unused ID: 6260
-Item. Unused ID: 6261
-Item. Unused ID: 6262
-Item. Unused ID: 6263
-Item. Unused ID: 6264
-Item. Unused ID: 6265
-Item. Unused ID: 6266
-Item. Unused ID: 6267
-Item. Unused ID: 6268
-Item. Unused ID: 6269
-Item. Unused ID: 6270
-Item. Unused ID: 6271
-Item. Unused ID: 6272
-Item. Unused ID: 6273
-Item. Unused ID: 6274
-Item. Unused ID: 6275
-Item. Unused ID: 6276
-Item. Unused ID: 6277
-Item. Unused ID: 6278
-Item. Unused ID: 6279
-Item. Unused ID: 6280
-Item. Unused ID: 6281
-Item. Unused ID: 6282
-Item. Unused ID: 6283
-Item. Unused ID: 6284
-Item. Unused ID: 6285
-Item. Unused ID: 6286
-Item. Unused ID: 6287
-Item. Unused ID: 6288
-Item. Unused ID: 6289
-Item. Unused ID: 6290
-Item. Unused ID: 6291
-Item. Unused ID: 6292
-Item. Unused ID: 6293
-Item. Unused ID: 6294
-Item. Unused ID: 6295
-Item. Unused ID: 6296
-Item. Unused ID: 6297
-Item. Unused ID: 6298
-Item. Unused ID: 6299
-Item. Unused ID: 6300
-Item. Unused ID: 6301
+Item. Name: item.gemForce. ID: 6256
+Item. Name: item.ingotForce. ID: 6257
+Item. Name: item.goldenPower. ID: 6258
+Item. Name: item.forceShard. ID: 6259
+Item. Name: item.clipboard. ID: 6260
+Item. Name: item.forceCap. ID: 6261
+Item. Name: item.forceTunic. ID: 6262
+Item. Name: item.forcePants. ID: 6263
+Item. Name: item.forceBoots. ID: 6264
+Item. Name: item.forceArrow. ID: 6265
+Item. Name: item.fortuneCookie. ID: 6266
+Item. Name: item.fortune. ID: 6267
+Item. Name: item.forcePack. ID: 6268
+Item. Name: item.forceTome. ID: 6269
+Item. Name: item.forceSword. ID: 6270
+Item. Name: item.forceRod. ID: 6271
+Item. Name: item.powerSaw. ID: 6272
+Item. Name: item.powerDrill. ID: 6273
+Item. Name: item.forcePickaxe. ID: 6274
+Item. Name: item.upgradeCore. ID: 6275
+Item. Name: item.nuggetForce. ID: 6276
+Item. Name: item.forceSpade. ID: 6277
+Item. Name: item.forceStick. ID: 6278
+Item. Name: item.forceAxe. ID: 6279
+Item. Name: item.forceGear. ID: 6280
+Item. Name: item.forceBow. ID: 6281
+Item. Name: item.forceShears. ID: 6282
+Item. Name: item.cratedForceGems. ID: 6283
+Item. Name: item.enderPack. ID: 6284
+Item. Name: item.rawLambchop. ID: 6285
+Item. Name: item.cookedLambchop. ID: 6286
+Item. Name: item.liquidForce. ID: 6287
+Item. Name: item.forceBucket. ID: 6288
+Item. Name: item.forceContainer. ID: 6289
+Item. Name: item.milkContainer. ID: 6290
+Item. Name: item.forceBelt. ID: 6291
+Item. Name: item.entityBottle. ID: 6292
+Item. Name: item.forceFlask. ID: 6293
+Item. Name: item.forceWrench. ID: 6294
+Item. Name: item.forceMitts. ID: 6295
+Item. Name: item.memberCard. ID: 6296
+Item. Name: item.lootBag. ID: 6297
+Item. Name: item.magnet. ID: 6298
+Item. Name: item.itemTear. ID: 6299
+Item. Name: item.itemClaw. ID: 6300
+Item. Name: item.inertCore. ID: 6301
 Item. Unused ID: 6302
-Item. Unused ID: 6303
-Item. Unused ID: 6304
+Item. Name: item.soulWafer. ID: 6303
+Item. Name: item.tileBox. ID: 6304
 Item. Unused ID: 6305
-Item. Unused ID: 6306
+Item. Name: item.forcePipe. ID: 6306
 Item. Unused ID: 6307
 Item. Unused ID: 6308
 Item. Unused ID: 6309
@@ -6859,7 +6859,7 @@ Item. Unused ID: 6858
 Item. Unused ID: 6859
 Item. Unused ID: 6860
 Item. Unused ID: 6861
-Item. Unused ID: 6862
+Item. Name: item.null. ID: 6862
 Item. Unused ID: 6863
 Item. Unused ID: 6864
 Item. Unused ID: 6865
@@ -7151,7 +7151,7 @@ Item. Name: item.PipeItemsSystemEntranceLogistics. ID: 7150
 Item. Name: item.PipeItemsSystemDestinationLogistics. ID: 7151
 Item. Name: item.PipeItemsCraftingLogisticsMk3. ID: 7152
 Item. Name: item.PipeItemsFirewall. ID: 7153
-Item. Name: item.PipeBlockRequestTable. ID: 7154
+Item. Unused ID: 7154
 Item. Unused ID: 7155
 Item. Name: item.CraftingSignCreator. ID: 7156
 Item. Name: item.LogisticsLiquidConnectorPipe. ID: 7157
@@ -7739,8 +7739,8 @@ Item. Unused ID: 7738
 Item. Unused ID: 7739
 Item. Unused ID: 7740
 Item. Unused ID: 7741
-Item. Unused ID: 7742
-Item. Unused ID: 7743
+Item. Name: item.null. ID: 7742
+Item. Name: item.null. ID: 7743
 Item. Unused ID: 7744
 Item. Unused ID: 7745
 Item. Unused ID: 7746
@@ -8073,7 +8073,7 @@ Item. Unused ID: 8072
 Item. Unused ID: 8073
 Item. Unused ID: 8074
 Item. Unused ID: 8075
-Item. Unused ID: 8076
+Item. Name: item.Vending:wrench. ID: 8076
 Item. Unused ID: 8077
 Item. Unused ID: 8078
 Item. Unused ID: 8079
@@ -10150,7 +10150,7 @@ Item. Unused ID: 10149
 Item. Unused ID: 10150
 Item. Unused ID: 10151
 Item. Unused ID: 10152
-Item. Unused ID: 10153
+Item. Name: item.immibis/ccperiphs:mc. ID: 10153
 Item. Unused ID: 10154
 Item. Unused ID: 10155
 Item. Unused ID: 10156
@@ -11201,8 +11201,8 @@ Item. Unused ID: 11200
 Item. Unused ID: 11201
 Item. Unused ID: 11202
 Item. Unused ID: 11203
-Item. Unused ID: 11204
-Item. Unused ID: 11205
+Item. Name: item.null. ID: 11204
+Item. Name: item.null. ID: 11205
 Item. Unused ID: 11206
 Item. Unused ID: 11207
 Item. Unused ID: 11208
@@ -11216,8 +11216,8 @@ Item. Unused ID: 11215
 Item. Unused ID: 11216
 Item. Unused ID: 11217
 Item. Unused ID: 11218
-Item. Unused ID: 11219
-Item. Unused ID: 11220
+Item. Name: item.null. ID: 11219
+Item. Name: item.null. ID: 11220
 Item. Unused ID: 11221
 Item. Unused ID: 11222
 Item. Unused ID: 11223
@@ -11304,7 +11304,7 @@ Item. Unused ID: 11303
 Item. Unused ID: 11304
 Item. Unused ID: 11305
 Item. Unused ID: 11306
-Item. Unused ID: 11307
+Item. Name: item.immibis/tubestuff:jammer. ID: 11307
 Item. Unused ID: 11308
 Item. Unused ID: 11309
 Item. Unused ID: 11310
@@ -11315,7 +11315,7 @@ Item. Unused ID: 11314
 Item. Unused ID: 11315
 Item. Unused ID: 11316
 Item. Unused ID: 11317
-Item. Unused ID: 11318
+Item. Name: item.immibis/lxp:liquid. ID: 11318
 Item. Unused ID: 11319
 Item. Unused ID: 11320
 Item. Unused ID: 11321
@@ -11360,68 +11360,68 @@ Item. Unused ID: 11359
 Item. Unused ID: 11360
 Item. Unused ID: 11361
 Item. Unused ID: 11362
-Item. Name: item.itemMultiToolWrench. ID: 11363
-Item. Name: item.itemMultiToolSwitch. ID: 11364
-Item. Name: item.itemMultiToolFieldTransporter. ID: 11365
-Item. Name: item.itemMultiToolIDWriter. ID: 11366
-Item. Name: item.itemMultiToolDebugger. ID: 11367
-Item. Name: item.itemMultiToolManual. ID: 11368
-Item. Name: item.itemProjectorModuleDiagonalWall. ID: 11369
-Item. Name: item.itemCardAccess. ID: 11370
-Item. Name: item.itemCardEmpty. ID: 11371
-Item. Name: item.itemCardPowerLink. ID: 11372
+Item. Unused ID: 11363
+Item. Unused ID: 11364
+Item. Unused ID: 11365
+Item. Unused ID: 11366
+Item. Unused ID: 11367
+Item. Unused ID: 11368
+Item. Unused ID: 11369
+Item. Unused ID: 11370
+Item. Unused ID: 11371
+Item. Unused ID: 11372
 Item. Unused ID: 11373
-Item. Name: item.itemExtractorUpgradeBooster. ID: 11374
-Item. Name: item.itemCapacitorUpgradeRange. ID: 11375
-Item. Name: item.itemCapacitorUpgradeCapacity. ID: 11376
-Item. Name: item.itemProjectorModuleSphere. ID: 11377
-Item. Name: item.itemProjectorModuleCube. ID: 11378
+Item. Unused ID: 11374
+Item. Unused ID: 11375
+Item. Unused ID: 11376
+Item. Unused ID: 11377
+Item. Unused ID: 11378
 Item. Unused ID: 11379
-Item. Name: item.itemProjectorModuleWall. ID: 11380
-Item. Name: item.itemProjectorModuleDeflector. ID: 11381
-Item. Name: item.itemProjectorModuleTube. ID: 11382
-Item. Name: item.itemProjectorOptionZapper. ID: 11383
-Item. Name: item.itemProjectorOptionSponge. ID: 11384
-Item. Name: item.itemProjectorOptionDome. ID: 11385
-Item. Name: item.itemProjectorOptionCutter. ID: 11386
-Item. Name: item.itemProjectorFFDistance. ID: 11387
-Item. Name: item.itemProjectorFFStrength. ID: 11388
-Item. Name: item.itemProjectorFocusMatrix. ID: 11389
-Item. Name: item.itemCardID. ID: 11390
-Item. Name: item.itemCardSecurityLink. ID: 11391
-Item. Unused ID: 11392
-Item. Name: item.itemProjectorOptionDefenseStation. ID: 11393
-Item. Name: item.itemProjectorOptionMobKiller. ID: 11394
-Item. Name: item.itemProjectorOptionFFJammer. ID: 11395
-Item. Name: item.itemProjectorModuleContainment. ID: 11396
-Item. Name: item.itemProjectorOptionCamouflage. ID: 11397
-Item. Name: item.itemProjectorModuleAdvCube. ID: 11398
-Item. Name: item.itemProjectorOptionFieldFusion. ID: 11399
-Item. Name: item.itemForcicium. ID: 11400
-Item. Name: item.itemForcePowerCrystal. ID: 11401
-Item. Name: item.itemForciciumCell. ID: 11402
-Item. Name: item.itemCardInfinitePower. ID: 11403
-Item. Name: item.itemCardDataLink. ID: 11404
-Item. Unused ID: 11405
-Item. Unused ID: 11406
-Item. Unused ID: 11407
-Item. Unused ID: 11408
-Item. Unused ID: 11409
-Item. Unused ID: 11410
-Item. Unused ID: 11411
-Item. Unused ID: 11412
-Item. Unused ID: 11413
-Item. Unused ID: 11414
-Item. Unused ID: 11415
-Item. Unused ID: 11416
-Item. Unused ID: 11417
-Item. Unused ID: 11418
-Item. Unused ID: 11419
-Item. Unused ID: 11420
-Item. Unused ID: 11421
-Item. Unused ID: 11422
-Item. Unused ID: 11423
-Item. Unused ID: 11424
+Item. Unused ID: 11380
+Item. Unused ID: 11381
+Item. Unused ID: 11382
+Item. Unused ID: 11383
+Item. Unused ID: 11384
+Item. Unused ID: 11385
+Item. Unused ID: 11386
+Item. Name: item.mffs:remoteController. ID: 11387
+Item. Name: item.mffs:focusMatrix. ID: 11388
+Item. Name: item.mffs:modeCube. ID: 11389
+Item. Name: item.mffs:modeSphere. ID: 11390
+Item. Name: item.mffs:modeTube. ID: 11391
+Item. Name: item.mffs:modePyramid. ID: 11392
+Item. Name: item.mffs:modeCylinder. ID: 11393
+Item. Name: item.mffs:modeCustom. ID: 11394
+Item. Name: item.mffs:moduleTranslate. ID: 11395
+Item. Name: item.mffs:moduleScale. ID: 11396
+Item. Name: item.mffs:moduleRotate. ID: 11397
+Item. Name: item.mffs:moduleSpeed. ID: 11398
+Item. Name: item.mffs:moduleCapacity. ID: 11399
+Item. Name: item.mffs:moduleFusion. ID: 11400
+Item. Name: item.mffs:moduleManipulator. ID: 11401
+Item. Name: item.mffs:moduleCamouflage. ID: 11402
+Item. Name: item.mffs:moduleDisintegration. ID: 11403
+Item. Name: item.mffs:moduleShock. ID: 11404
+Item. Name: item.mffs:moduleGlow. ID: 11405
+Item. Name: item.mffs:moduleSponge. ID: 11406
+Item. Name: item.mffs:moduleStabilize. ID: 11407
+Item. Name: item.mffs:moduleAntiFriendly. ID: 11408
+Item. Name: item.mffs:moduleAntiHostile. ID: 11409
+Item. Name: item.mffs:moduleAntiPersonnel. ID: 11410
+Item. Name: item.mffs:moduleConfiscate. ID: 11411
+Item. Name: item.mffs:moduleWarn. ID: 11412
+Item. Name: item.mffs:moduleBlockAccess. ID: 11413
+Item. Name: item.mffs:moduleBlockAlter. ID: 11414
+Item. Name: item.mffs:moduleAntiSpawn. ID: 11415
+Item. Name: item.mffs:cardBlank. ID: 11416
+Item. Name: item.mffs:cardFrequency. ID: 11417
+Item. Name: item.mffs:cardLink. ID: 11418
+Item. Name: item.mffs:cardIdentification. ID: 11419
+Item. Name: item.mffs:cardInfinite. ID: 11420
+Item. Name: item.mffs:fortron. ID: 11421
+Item. Name: item.mffs:moduleCollection. ID: 11422
+Item. Name: item.mffs:moduleInvert. ID: 11423
+Item. Name: item.mffs:moduleSilence. ID: 11424
 Item. Unused ID: 11425
 Item. Unused ID: 11426
 Item. Unused ID: 11427
@@ -11453,29 +11453,29 @@ Item. Unused ID: 11452
 Item. Unused ID: 11453
 Item. Unused ID: 11454
 Item. Unused ID: 11455
-Item. Unused ID: 11456
+Item. Name: item.ElectricBow. ID: 11456
 Item. Unused ID: 11457
-Item. Unused ID: 11458
-Item. Unused ID: 11459
+Item. Name: item.Stopwatch. ID: 11458
+Item. Name: item.WeatherOrb. ID: 11459
 Item. Unused ID: 11460
 Item. Unused ID: 11461
-Item. Unused ID: 11462
-Item. Unused ID: 11463
-Item. Unused ID: 11464
-Item. Unused ID: 11465
-Item. Unused ID: 11466
-Item. Unused ID: 11467
-Item. Unused ID: 11468
-Item. Unused ID: 11469
-Item. Unused ID: 11470
-Item. Unused ID: 11471
-Item. Unused ID: 11472
-Item. Unused ID: 11473
-Item. Unused ID: 11474
+Item. Name: item.EnergyTablet. ID: 11462
+Item. Name: item.SpeedUpgrade. ID: 11463
+Item. Name: item.EnergyUpgrade. ID: 11464
+Item. Name: item.Robit. ID: 11465
+Item. Name: item.AtomicDisassembler. ID: 11466
+Item. Name: item.AtomicCore. ID: 11467
+Item. Name: item.EnrichedAlloy. ID: 11468
+Item. Name: item.StorageTank. ID: 11469
+Item. Name: item.ControlCircuit. ID: 11470
+Item. Name: item.EnrichedIron. ID: 11471
+Item. Name: item.CompressedCarbon. ID: 11472
+Item. Name: item.PortableTeleporter. ID: 11473
+Item. Name: item.TeleportationCore. ID: 11474
 Item. Unused ID: 11475
 Item. Unused ID: 11476
-Item. Unused ID: 11477
-Item. Unused ID: 11478
+Item. Name: item.Configurator. ID: 11477
+Item. Name: item.EnergyMeter. ID: 11478
 Item. Unused ID: 11479
 Item. Unused ID: 11480
 Item. Unused ID: 11481
@@ -11497,44 +11497,44 @@ Item. Unused ID: 11496
 Item. Unused ID: 11497
 Item. Unused ID: 11498
 Item. Unused ID: 11499
-Item. Name: item.mffs:cardBlank. ID: 11500
-Item. Name: item.mffs:cardFrequency. ID: 11501
-Item. Name: item.mffs:cardIdentification. ID: 11502
-Item. Name: item.mffs:cardInfinite. ID: 11503
-Item. Name: item.mffs:cardLink. ID: 11504
-Item. Name: item.mffs:focusMatrix. ID: 11505
-Item. Name: item.mffs:fortron. ID: 11506
-Item. Name: item.mffs:modeCube. ID: 11507
-Item. Name: item.mffs:modeCustom. ID: 11508
-Item. Name: item.mffs:modeCylinder. ID: 11509
-Item. Name: item.mffs:modePyramid. ID: 11510
-Item. Name: item.mffs:modeSphere. ID: 11511
-Item. Name: item.mffs:modeTube. ID: 11512
-Item. Name: item.mffs:moduleAntiFriendly. ID: 11513
-Item. Name: item.mffs:moduleAntiHostile. ID: 11514
-Item. Name: item.mffs:moduleAntiPersonnel. ID: 11515
-Item. Name: item.mffs:moduleAntiSpawn. ID: 11516
-Item. Name: item.mffs:moduleBlockAccess. ID: 11517
-Item. Name: item.mffs:moduleBlockAlter. ID: 11518
-Item. Name: item.mffs:moduleCamouflage. ID: 11519
-Item. Name: item.mffs:moduleCapacity. ID: 11520
-Item. Name: item.mffs:moduleCollection. ID: 11521
-Item. Name: item.mffs:moduleConfiscate. ID: 11522
-Item. Name: item.mffs:moduleDisintegration. ID: 11523
-Item. Name: item.mffs:moduleFusion. ID: 11524
-Item. Name: item.mffs:moduleGlow. ID: 11525
-Item. Name: item.mffs:moduleInvert. ID: 11526
-Item. Name: item.mffs:moduleManipulator. ID: 11527
-Item. Name: item.mffs:moduleRotate. ID: 11528
-Item. Name: item.mffs:moduleScale. ID: 11529
-Item. Name: item.mffs:moduleShock. ID: 11530
-Item. Name: item.mffs:moduleSilence. ID: 11531
-Item. Name: item.mffs:moduleSpeed. ID: 11532
-Item. Name: item.mffs:moduleSponge. ID: 11533
-Item. Name: item.mffs:moduleStabilize. ID: 11534
-Item. Name: item.mffs:moduleTranslate. ID: 11535
-Item. Name: item.mffs:moduleWarn. ID: 11536
-Item. Name: item.mffs:remoteController. ID: 11537
+Item. Unused ID: 11500
+Item. Unused ID: 11501
+Item. Unused ID: 11502
+Item. Unused ID: 11503
+Item. Unused ID: 11504
+Item. Unused ID: 11505
+Item. Unused ID: 11506
+Item. Unused ID: 11507
+Item. Unused ID: 11508
+Item. Unused ID: 11509
+Item. Unused ID: 11510
+Item. Unused ID: 11511
+Item. Unused ID: 11512
+Item. Unused ID: 11513
+Item. Unused ID: 11514
+Item. Unused ID: 11515
+Item. Unused ID: 11516
+Item. Unused ID: 11517
+Item. Unused ID: 11518
+Item. Unused ID: 11519
+Item. Unused ID: 11520
+Item. Unused ID: 11521
+Item. Unused ID: 11522
+Item. Unused ID: 11523
+Item. Unused ID: 11524
+Item. Unused ID: 11525
+Item. Unused ID: 11526
+Item. Unused ID: 11527
+Item. Unused ID: 11528
+Item. Unused ID: 11529
+Item. Unused ID: 11530
+Item. Unused ID: 11531
+Item. Unused ID: 11532
+Item. Unused ID: 11533
+Item. Unused ID: 11534
+Item. Unused ID: 11535
+Item. Unused ID: 11536
+Item. Unused ID: 11537
 Item. Unused ID: 11538
 Item. Unused ID: 11539
 Item. Unused ID: 11540
@@ -11553,9 +11553,9 @@ Item. Unused ID: 11552
 Item. Unused ID: 11553
 Item. Unused ID: 11554
 Item. Unused ID: 11555
-Item. Unused ID: 11556
-Item. Unused ID: 11557
-Item. Unused ID: 11558
+Item. Name: item.SolarPanel. ID: 11556
+Item. Name: item.BioFuel. ID: 11557
+Item. Name: item.ElectrolyticCore. ID: 11558
 Item. Unused ID: 11559
 Item. Unused ID: 11560
 Item. Unused ID: 11561
@@ -11653,71 +11653,71 @@ Item. Unused ID: 11652
 Item. Unused ID: 11653
 Item. Unused ID: 11654
 Item. Unused ID: 11655
-Item. Unused ID: 11656
-Item. Unused ID: 11657
-Item. Unused ID: 11658
-Item. Unused ID: 11659
-Item. Unused ID: 11660
-Item. Unused ID: 11661
-Item. Unused ID: 11662
-Item. Unused ID: 11663
-Item. Unused ID: 11664
-Item. Unused ID: 11665
-Item. Unused ID: 11666
-Item. Unused ID: 11667
-Item. Unused ID: 11668
-Item. Unused ID: 11669
-Item. Unused ID: 11670
-Item. Unused ID: 11671
-Item. Unused ID: 11672
-Item. Unused ID: 11673
-Item. Unused ID: 11674
-Item. Unused ID: 11675
-Item. Unused ID: 11676
-Item. Unused ID: 11677
-Item. Unused ID: 11678
-Item. Unused ID: 11679
-Item. Unused ID: 11680
-Item. Unused ID: 11681
-Item. Unused ID: 11682
-Item. Unused ID: 11683
-Item. Unused ID: 11684
-Item. Unused ID: 11685
-Item. Unused ID: 11686
-Item. Unused ID: 11687
-Item. Unused ID: 11688
-Item. Unused ID: 11689
-Item. Unused ID: 11690
-Item. Unused ID: 11691
-Item. Unused ID: 11692
-Item. Unused ID: 11693
-Item. Unused ID: 11694
-Item. Unused ID: 11695
-Item. Unused ID: 11696
-Item. Unused ID: 11697
-Item. Unused ID: 11698
-Item. Unused ID: 11699
-Item. Unused ID: 11700
-Item. Unused ID: 11701
-Item. Unused ID: 11702
-Item. Unused ID: 11703
-Item. Unused ID: 11704
-Item. Unused ID: 11705
-Item. Unused ID: 11706
-Item. Unused ID: 11707
-Item. Unused ID: 11708
-Item. Unused ID: 11709
-Item. Unused ID: 11710
-Item. Unused ID: 11711
-Item. Unused ID: 11712
-Item. Unused ID: 11713
-Item. Unused ID: 11714
-Item. Unused ID: 11715
-Item. Unused ID: 11716
-Item. Unused ID: 11717
-Item. Unused ID: 11718
-Item. Unused ID: 11719
-Item. Unused ID: 11720
+Item. Name: item.BronzeHelmet. ID: 11656
+Item. Name: item.BronzeChestplate. ID: 11657
+Item. Name: item.BronzeLeggings. ID: 11658
+Item. Name: item.BronzeBoots. ID: 11659
+Item. Name: item.BronzePaxel. ID: 11660
+Item. Name: item.BronzePickaxe. ID: 11661
+Item. Name: item.BronzeAxe. ID: 11662
+Item. Name: item.BronzeShovel. ID: 11663
+Item. Name: item.BronzeHoe. ID: 11664
+Item. Name: item.BronzeSword. ID: 11665
+Item. Name: item.OsmiumHelmet. ID: 11666
+Item. Name: item.OsmiumChestplate. ID: 11667
+Item. Name: item.OsmiumLeggings. ID: 11668
+Item. Name: item.OsmiumBoots. ID: 11669
+Item. Name: item.OsmiumPaxel. ID: 11670
+Item. Name: item.OsmiumPickaxe. ID: 11671
+Item. Name: item.OsmiumAxe. ID: 11672
+Item. Name: item.OsmiumShovel. ID: 11673
+Item. Name: item.OsmiumHoe. ID: 11674
+Item. Name: item.OsmiumSword. ID: 11675
+Item. Name: item.ObsidianHelmet. ID: 11676
+Item. Name: item.ObsidianChestplate. ID: 11677
+Item. Name: item.ObsidianLeggings. ID: 11678
+Item. Name: item.ObsidianBoots. ID: 11679
+Item. Name: item.ObsidianPaxel. ID: 11680
+Item. Name: item.ObsidianPickaxe. ID: 11681
+Item. Name: item.ObsidianAxe. ID: 11682
+Item. Name: item.ObsidianShovel. ID: 11683
+Item. Name: item.ObsidianHoe. ID: 11684
+Item. Name: item.ObsidianSword. ID: 11685
+Item. Name: item.LazuliPaxel. ID: 11686
+Item. Name: item.LazuliPickaxe. ID: 11687
+Item. Name: item.LazuliAxe. ID: 11688
+Item. Name: item.LazuliShovel. ID: 11689
+Item. Name: item.LazuliHoe. ID: 11690
+Item. Name: item.LazuliSword. ID: 11691
+Item. Name: item.LazuliHelmet. ID: 11692
+Item. Name: item.LazuliChestplate. ID: 11693
+Item. Name: item.LazuliLeggings. ID: 11694
+Item. Name: item.LazuliBoots. ID: 11695
+Item. Name: item.GlowstonePaxel. ID: 11696
+Item. Name: item.GlowstonePickaxe. ID: 11697
+Item. Name: item.GlowstoneAxe. ID: 11698
+Item. Name: item.GlowstoneShovel. ID: 11699
+Item. Name: item.GlowstoneHoe. ID: 11700
+Item. Name: item.GlowstoneSword. ID: 11701
+Item. Name: item.GlowstoneHelmet. ID: 11702
+Item. Name: item.GlowstoneChestplate. ID: 11703
+Item. Name: item.GlowstoneLeggings. ID: 11704
+Item. Name: item.GlowstoneBoots. ID: 11705
+Item. Name: item.WoodPaxel. ID: 11706
+Item. Name: item.StonePaxel. ID: 11707
+Item. Name: item.IronPaxel. ID: 11708
+Item. Name: item.DiamondPaxel. ID: 11709
+Item. Name: item.GoldPaxel. ID: 11710
+Item. Name: item.SteelPaxel. ID: 11711
+Item. Name: item.SteelPickaxe. ID: 11712
+Item. Name: item.SteelAxe. ID: 11713
+Item. Name: item.SteelShovel. ID: 11714
+Item. Name: item.SteelHoe. ID: 11715
+Item. Name: item.SteelSword. ID: 11716
+Item. Name: item.SteelHelmet. ID: 11717
+Item. Name: item.SteelChestplate. ID: 11718
+Item. Name: item.SteelLeggings. ID: 11719
+Item. Name: item.SteelBoots. ID: 11720
 Item. Unused ID: 11721
 Item. Unused ID: 11722
 Item. Unused ID: 11723
@@ -11860,48 +11860,48 @@ Item. Unused ID: 11859
 Item. Unused ID: 11860
 Item. Unused ID: 11861
 Item. Unused ID: 11862
-Item. Unused ID: 11863
-Item. Unused ID: 11864
-Item. Unused ID: 11865
-Item. Unused ID: 11866
-Item. Unused ID: 11867
-Item. Unused ID: 11868
-Item. Unused ID: 11869
-Item. Unused ID: 11870
-Item. Unused ID: 11871
-Item. Unused ID: 11872
+Item. Name: item.itemMultiToolWrench. ID: 11863
+Item. Name: item.itemMultiToolSwitch. ID: 11864
+Item. Name: item.itemMultiToolFieldTransporter. ID: 11865
+Item. Name: item.itemMultiToolIDWriter. ID: 11866
+Item. Name: item.itemMultiToolDebugger. ID: 11867
+Item. Name: item.itemMultiToolManual. ID: 11868
+Item. Name: item.itemProjectorModuleDiagonalWall. ID: 11869
+Item. Name: item.itemCardAccess. ID: 11870
+Item. Name: item.itemCardEmpty. ID: 11871
+Item. Name: item.itemCardPowerLink. ID: 11872
 Item. Unused ID: 11873
-Item. Unused ID: 11874
-Item. Unused ID: 11875
-Item. Unused ID: 11876
-Item. Unused ID: 11877
-Item. Unused ID: 11878
+Item. Name: item.itemExtractorUpgradeBooster. ID: 11874
+Item. Name: item.itemCapacitorUpgradeRange. ID: 11875
+Item. Name: item.itemCapacitorUpgradeCapacity. ID: 11876
+Item. Name: item.itemProjectorModuleSphere. ID: 11877
+Item. Name: item.itemProjectorModuleCube. ID: 11878
 Item. Unused ID: 11879
-Item. Unused ID: 11880
-Item. Unused ID: 11881
-Item. Unused ID: 11882
-Item. Unused ID: 11883
-Item. Unused ID: 11884
-Item. Unused ID: 11885
-Item. Unused ID: 11886
-Item. Unused ID: 11887
-Item. Unused ID: 11888
-Item. Unused ID: 11889
-Item. Unused ID: 11890
-Item. Unused ID: 11891
+Item. Name: item.itemProjectorModuleWall. ID: 11880
+Item. Name: item.itemProjectorModuleDeflector. ID: 11881
+Item. Name: item.itemProjectorModuleTube. ID: 11882
+Item. Name: item.itemProjectorOptionZapper. ID: 11883
+Item. Name: item.itemProjectorOptionSponge. ID: 11884
+Item. Name: item.itemProjectorOptionDome. ID: 11885
+Item. Name: item.itemProjectorOptionCutter. ID: 11886
+Item. Name: item.itemProjectorFFDistance. ID: 11887
+Item. Name: item.itemProjectorFFStrength. ID: 11888
+Item. Name: item.itemProjectorFocusMatrix. ID: 11889
+Item. Name: item.itemCardID. ID: 11890
+Item. Name: item.itemCardSecurityLink. ID: 11891
 Item. Unused ID: 11892
-Item. Unused ID: 11893
-Item. Unused ID: 11894
-Item. Unused ID: 11895
-Item. Unused ID: 11896
-Item. Unused ID: 11897
-Item. Unused ID: 11898
-Item. Unused ID: 11899
-Item. Unused ID: 11900
-Item. Unused ID: 11901
-Item. Unused ID: 11902
-Item. Unused ID: 11903
-Item. Unused ID: 11904
+Item. Name: item.itemProjectorOptionDefenseStation. ID: 11893
+Item. Name: item.itemProjectorOptionMobKiller. ID: 11894
+Item. Name: item.itemProjectorOptionFFJammer. ID: 11895
+Item. Name: item.itemProjectorModuleContainment. ID: 11896
+Item. Name: item.itemProjectorOptionCamouflage. ID: 11897
+Item. Name: item.itemProjectorModuleAdvCube. ID: 11898
+Item. Name: item.itemProjectorOptionFieldFusion. ID: 11899
+Item. Name: item.itemForcicium. ID: 11900
+Item. Name: item.itemForcePowerCrystal. ID: 11901
+Item. Name: item.itemForciciumCell. ID: 11902
+Item. Name: item.itemCardInfinitePower. ID: 11903
+Item. Name: item.itemCardDataLink. ID: 11904
 Item. Unused ID: 11905
 Item. Unused ID: 11906
 Item. Unused ID: 11907
@@ -12183,17 +12183,17 @@ Item. Unused ID: 12182
 Item. Unused ID: 12183
 Item. Unused ID: 12184
 Item. Unused ID: 12185
-Item. Unused ID: 12186
-Item. Unused ID: 12187
-Item. Unused ID: 12188
-Item. Unused ID: 12189
-Item. Unused ID: 12190
-Item. Unused ID: 12191
-Item. Unused ID: 12192
-Item. Unused ID: 12193
-Item. Unused ID: 12194
-Item. Unused ID: 12195
-Item. Unused ID: 12196
+Item. Name: item.plateDenseLapis. ID: 12186
+Item. Name: item.infernalReactorVent. ID: 12187
+Item. Name: item.quartzCondensator. ID: 12188
+Item. Name: item.plateInfernal. ID: 12189
+Item. Name: item.plateDenseObsidian. ID: 12190
+Item. Name: item.dustObsidian. ID: 12191
+Item. Name: item.obsidianNeutronReflector. ID: 12192
+Item. Name: item.thickObsidianNeutronReflector. ID: 12193
+Item. Name: item.weepingCoolantCell. ID: 12194
+Item. Name: item.plateDenseLead. ID: 12195
+Item. Name: item.ingotInfernal. ID: 12196
 Item. Unused ID: 12197
 Item. Unused ID: 12198
 Item. Unused ID: 12199
@@ -12289,17 +12289,17 @@ Item. Name: item.mfr.safarinet.jailer. ID: 12288
 Item. Name: item.mfr.laserfocus. ID: 12289
 Item. Name: item.mfr.bucket.chocolatemilk. ID: 12290
 Item. Name: item.mfr.bucket.mushroomsoup. ID: 12291
-Item. Unused ID: 12292
-Item. Unused ID: 12293
-Item. Unused ID: 12294
-Item. Unused ID: 12295
-Item. Unused ID: 12296
-Item. Unused ID: 12297
-Item. Unused ID: 12298
-Item. Unused ID: 12299
-Item. Unused ID: 12300
-Item. Unused ID: 12301
-Item. Unused ID: 12302
+Item. Name: item.mfr.needlegun. ID: 12292
+Item. Name: item.mfr.needlegun.ammo.empty. ID: 12293
+Item. Name: item.mfr.needlegun.ammo.standard. ID: 12294
+Item. Name: item.mfr.needlegun.ammo.lava. ID: 12295
+Item. Name: item.mfr.needlegun.ammo.sludge. ID: 12296
+Item. Name: item.mfr.needlegun.ammo.sewage. ID: 12297
+Item. Name: item.mfr.needlegun.ammo.fire. ID: 12298
+Item. Name: item.mfr.needlegun.ammo.anvil. ID: 12299
+Item. Name: item.mfr.bucket.plasticcup. ID: 12300
+Item. Name: item.mfr.rocketlauncher. ID: 12301
+Item. Name: item.mfr.rocket. ID: 12302
 Item. Unused ID: 12303
 Item. Unused ID: 12304
 Item. Unused ID: 12305
@@ -12383,8 +12383,8 @@ Item. Unused ID: 12382
 Item. Unused ID: 12383
 Item. Unused ID: 12384
 Item. Unused ID: 12385
-Item. Unused ID: 12386
-Item. Unused ID: 12387
+Item. Name: item.imprint. ID: 12386
+Item. Name: item.disk. ID: 12387
 Item. Unused ID: 12388
 Item. Unused ID: 12389
 Item. Unused ID: 12390
@@ -13437,7 +13437,7 @@ Item. Unused ID: 13436
 Item. Unused ID: 13437
 Item. Unused ID: 13438
 Item. Unused ID: 13439
-Item. Unused ID: 13440
+Item. Name: item.immibis.microblocks.saw. ID: 13440
 Item. Unused ID: 13441
 Item. Unused ID: 13442
 Item. Unused ID: 13443
@@ -14017,24 +14017,24 @@ Item. Unused ID: 14016
 Item. Unused ID: 14017
 Item. Unused ID: 14018
 Item. Unused ID: 14019
-Item. Unused ID: 14020
-Item. Unused ID: 14021
-Item. Unused ID: 14022
-Item. Unused ID: 14023
-Item. Unused ID: 14024
-Item. Unused ID: 14025
+Item. Name: item.atomicscience:hazmatBoots. ID: 14020
+Item. Name: item.atomicscience:hazmatLeggings. ID: 14021
+Item. Name: item.atomicscience:hazmatBody. ID: 14022
+Item. Name: item.atomicscience:hazmatMask. ID: 14023
+Item. Name: item.atomicscience:thermometer. ID: 14024
+Item. Name: item.atomicscience:cellEmpty. ID: 14025
 Item. Unused ID: 14026
-Item. Unused ID: 14027
-Item. Unused ID: 14028
-Item. Unused ID: 14029
-Item. Unused ID: 14030
+Item. Name: item.atomicscience:rodFissileFuel. ID: 14027
+Item. Name: item.atomicscience:cellDeuterium. ID: 14028
+Item. Name: item.atomicscience:strangeMatter. ID: 14029
+Item. Name: item.atomicscience:antimatter. ID: 14030
 Item. Unused ID: 14031
-Item. Unused ID: 14032
-Item. Unused ID: 14033
-Item. Unused ID: 14034
-Item. Unused ID: 14035
-Item. Unused ID: 14036
-Item. Unused ID: 14037
+Item. Name: item.atomicscience:yellowcake. ID: 14032
+Item. Name: item.atomicscience:uranium. ID: 14033
+Item. Name: item.atomicscience:uraniumHexafluoride. ID: 14034
+Item. Name: item.atomicscience:steam. ID: 14035
+Item. Name: item.atomicscience:bucketToxicWaste. ID: 14036
+Item. Name: item.atomicscience:rodBreederFuel. ID: 14037
 Item. Unused ID: 14038
 Item. Unused ID: 14039
 Item. Unused ID: 14040
@@ -14223,17 +14223,17 @@ Item. Unused ID: 14222
 Item. Unused ID: 14223
 Item. Unused ID: 14224
 Item. Unused ID: 14225
-Item. Unused ID: 14226
-Item. Unused ID: 14227
+Item. Name: item.basiccomponents:battery. ID: 14226
+Item. Name: item.basiccomponents:infiniteBattery. ID: 14227
 Item. Unused ID: 14228
-Item. Unused ID: 14229
-Item. Unused ID: 14230
-Item. Unused ID: 14231
-Item. Unused ID: 14232
+Item. Name: item.basiccomponents:motor. ID: 14229
+Item. Name: item.basiccomponents:circuitBasic. ID: 14230
+Item. Name: item.basiccomponents:circuitAdvanced. ID: 14231
+Item. Name: item.basiccomponents:circuitElite. ID: 14232
 Item. Unused ID: 14233
 Item. Unused ID: 14234
-Item. Unused ID: 14235
-Item. Unused ID: 14236
+Item. Name: item.basiccomponents:plateBronze. ID: 14235
+Item. Name: item.basiccomponents:plateSteel. ID: 14236
 Item. Unused ID: 14237
 Item. Unused ID: 14238
 Item. Unused ID: 14239
@@ -14644,7 +14644,7 @@ Item. Unused ID: 14643
 Item. Unused ID: 14644
 Item. Unused ID: 14645
 Item. Unused ID: 14646
-Item. Unused ID: 14647
+Item. Name: item.sponge.wipe. ID: 14647
 Item. Unused ID: 14648
 Item. Unused ID: 14649
 Item. Unused ID: 14650
@@ -16247,7 +16247,7 @@ Item. Unused ID: 16246
 Item. Unused ID: 16247
 Item. Unused ID: 16248
 Item. Unused ID: 16249
-Item. Unused ID: 16250
+Item. Name: item.immibis/ccperiphs:rf. ID: 16250
 Item. Unused ID: 16251
 Item. Unused ID: 16252
 Item. Unused ID: 16253
@@ -16514,7 +16514,7 @@ Item. Unused ID: 16513
 Item. Unused ID: 16514
 Item. Unused ID: 16515
 Item. Unused ID: 16516
-Item. Unused ID: 16517
+Item. Name: item.immibis/redlogic:screwdriver. ID: 16517
 Item. Unused ID: 16518
 Item. Unused ID: 16519
 Item. Unused ID: 16520
@@ -18003,7 +18003,7 @@ Item. Unused ID: 18002
 Item. Unused ID: 18003
 Item. Unused ID: 18004
 Item. Unused ID: 18005
-Item. Unused ID: 18006
+Item. Name: item.ingot. ID: 18006
 Item. Unused ID: 18007
 Item. Unused ID: 18008
 Item. Unused ID: 18009
@@ -18583,10 +18583,10 @@ Item. Unused ID: 18582
 Item. Unused ID: 18583
 Item. Unused ID: 18584
 Item. Unused ID: 18585
-Item. Unused ID: 18586
-Item. Unused ID: 18587
-Item. Unused ID: 18588
-Item. Unused ID: 18589
+Item. Name: item.backpack. ID: 18586
+Item. Name: item.leather. ID: 18587
+Item. Name: item.leather. ID: 18588
+Item. Name: item.backpack. ID: 18589
 Item. Unused ID: 18590
 Item. Unused ID: 18591
 Item. Unused ID: 18592
@@ -20253,7 +20253,7 @@ Item. Unused ID: 20252
 Item. Unused ID: 20253
 Item. Unused ID: 20254
 Item. Unused ID: 20255
-Item. Unused ID: 20256
+Item. Name: item.null. ID: 20256
 Item. Name: item.tool. ID: 20257
 Item. Name: item.tool. ID: 20258
 Item. Unused ID: 20259
@@ -21202,8 +21202,8 @@ Item. Unused ID: 21201
 Item. Unused ID: 21202
 Item. Unused ID: 21203
 Item. Unused ID: 21204
-Item. Unused ID: 21205
-Item. Unused ID: 21206
+Item. Name: item.icbm:ammunition. ID: 21205
+Item. Name: item.icbm:turretUpgrades. ID: 21206
 Item. Unused ID: 21207
 Item. Unused ID: 21208
 Item. Unused ID: 21209
@@ -21333,36 +21333,36 @@ Item. Unused ID: 21332
 Item. Unused ID: 21333
 Item. Unused ID: 21334
 Item. Unused ID: 21335
-Item. Unused ID: 21336
-Item. Unused ID: 21337
-Item. Unused ID: 21338
-Item. Unused ID: 21339
-Item. Unused ID: 21340
-Item. Unused ID: 21341
-Item. Unused ID: 21342
-Item. Unused ID: 21343
-Item. Unused ID: 21344
-Item. Unused ID: 21345
-Item. Unused ID: 21346
-Item. Unused ID: 21347
-Item. Unused ID: 21348
-Item. Unused ID: 21349
-Item. Unused ID: 21350
-Item. Unused ID: 21351
+Item. Name: item.bop.soulManipulator. ID: 21336
+Item. Name: item.bop.scytheWood. ID: 21337
+Item. Name: item.bop.scytheStone. ID: 21338
+Item. Name: item.bop.scytheIron. ID: 21339
+Item. Name: item.bop.scytheGold. ID: 21340
+Item. Name: item.bop.scytheDiamond. ID: 21341
+Item. Name: item.bop.scytheMud. ID: 21342
+Item. Name: item.bop.scytheAmethyst. ID: 21343
+Item. Name: item.bop.tc.Binding. ID: 21344
+Item. Name: item.bop.tc.ThickBinding. ID: 21345
+Item. Name: item.bop.tc.ThickRod. ID: 21346
+Item. Name: item.bop.tc.LargePlate. ID: 21347
+Item. Name: item.bop.tc.ToolRod. ID: 21348
+Item. Name: item.bop.tc.ToolShard. ID: 21349
+Item. Name: item.bop.tc.PickaxeHead. ID: 21350
+Item. Name: item.bop.tc.ShovelHead. ID: 21351
 Item. Unused ID: 21352
-Item. Unused ID: 21353
-Item. Unused ID: 21354
-Item. Unused ID: 21355
-Item. Unused ID: 21356
-Item. Unused ID: 21357
-Item. Unused ID: 21358
-Item. Unused ID: 21359
-Item. Unused ID: 21360
-Item. Unused ID: 21361
-Item. Unused ID: 21362
-Item. Unused ID: 21363
-Item. Unused ID: 21364
-Item. Unused ID: 21365
+Item. Name: item.bop.tc.FrypanHead. ID: 21353
+Item. Name: item.bop.tc.SignHead. ID: 21354
+Item. Name: item.bop.tc.ChiselHead. ID: 21355
+Item. Name: item.bop.tc.ScytheBlade. ID: 21356
+Item. Name: item.bop.tc.LumberHead. ID: 21357
+Item. Name: item.bop.tc.ExcavatorHead. ID: 21358
+Item. Name: item.bop.tc.HammerHead. ID: 21359
+Item. Name: item.bop.tc.SwordBlade. ID: 21360
+Item. Name: item.bop.tc.LargeSwordBlade. ID: 21361
+Item. Name: item.bop.tc.KnifeBlade. ID: 21362
+Item. Name: item.bop.tc.LargeGuard. ID: 21363
+Item. Name: item.bop.tc.MediumGuard. ID: 21364
+Item. Name: item.bop.tc.Crossbar. ID: 21365
 Item. Unused ID: 21366
 Item. Unused ID: 21367
 Item. Unused ID: 21368
@@ -21993,8 +21993,8 @@ Item. Unused ID: 21992
 Item. Unused ID: 21993
 Item. Unused ID: 21994
 Item. Unused ID: 21995
-Item. Unused ID: 21996
-Item. Unused ID: 21997
+Item. Name: item.artifact. ID: 21996
+Item. Name: item.omniwrench. ID: 21997
 Item. Unused ID: 21998
 Item. Unused ID: 21999
 Item. Unused ID: 22000
@@ -22159,7 +22159,7 @@ Item. Unused ID: 22158
 Item. Unused ID: 22159
 Item. Unused ID: 22160
 Item. Unused ID: 22161
-Item. Unused ID: 22162
+Item. Name: item.bop.tc.AxeHead. ID: 22162
 Item. Unused ID: 22163
 Item. Unused ID: 22164
 Item. Unused ID: 22165
@@ -22254,26 +22254,26 @@ Item. Unused ID: 22253
 Item. Unused ID: 22254
 Item. Unused ID: 22255
 Item. Unused ID: 22256
-Item. Unused ID: 22257
-Item. Unused ID: 22258
-Item. Unused ID: 22259
+Item. Name: item.bop.shroomPowder. ID: 22257
+Item. Name: item.bop.sunflowerSeeds. ID: 22258
+Item. Name: item.bop.berries. ID: 22259
 Item. Unused ID: 22260
 Item. Unused ID: 22261
-Item. Unused ID: 22262
-Item. Unused ID: 22263
+Item. Name: item.bop.ancientStaff. ID: 22262
+Item. Name: item.bop.enderporter. ID: 22263
 Item. Unused ID: 22264
 Item. Unused ID: 22265
-Item. Unused ID: 22266
-Item. Unused ID: 22267
-Item. Unused ID: 22268
-Item. Unused ID: 22269
+Item. Name: item.bop.miscItems. ID: 22266
+Item. Name: item.bop.mudball. ID: 22267
+Item. Name: item.bop.dartblower. ID: 22268
+Item. Name: item.bop.dart. ID: 22269
 Item. Unused ID: 22270
 Item. Unused ID: 22271
 Item. Unused ID: 22272
 Item. Unused ID: 22273
 Item. Unused ID: 22274
-Item. Unused ID: 22275
-Item. Unused ID: 22276
+Item. Name: item.bop.bopDisc. ID: 22275
+Item. Name: item.bop.bopDiscMud. ID: 22276
 Item. Unused ID: 22277
 Item. Unused ID: 22278
 Item. Unused ID: 22279
@@ -22313,26 +22313,26 @@ Item. Unused ID: 22312
 Item. Unused ID: 22313
 Item. Unused ID: 22314
 Item. Unused ID: 22315
-Item. Unused ID: 22316
-Item. Unused ID: 22317
-Item. Unused ID: 22318
-Item. Unused ID: 22319
-Item. Unused ID: 22320
-Item. Unused ID: 22321
-Item. Unused ID: 22322
-Item. Unused ID: 22323
-Item. Unused ID: 22324
-Item. Unused ID: 22325
-Item. Unused ID: 22326
-Item. Unused ID: 22327
-Item. Unused ID: 22328
-Item. Unused ID: 22329
-Item. Unused ID: 22330
-Item. Unused ID: 22331
-Item. Unused ID: 22332
-Item. Unused ID: 22333
-Item. Unused ID: 22334
-Item. Unused ID: 22335
+Item. Name: item.bop.swordMud. ID: 22316
+Item. Name: item.bop.shovelMud. ID: 22317
+Item. Name: item.bop.pickaxeMud. ID: 22318
+Item. Name: item.bop.hatchetMud. ID: 22319
+Item. Name: item.bop.hoeMud. ID: 22320
+Item. Name: item.bop.helmetMud. ID: 22321
+Item. Name: item.bop.chestplateMud. ID: 22322
+Item. Name: item.bop.leggingsMud. ID: 22323
+Item. Name: item.bop.bootsMud. ID: 22324
+Item. Name: item.bop.swordAmethyst. ID: 22325
+Item. Name: item.bop.shovelAmethyst. ID: 22326
+Item. Name: item.bop.pickaxeAmethyst. ID: 22327
+Item. Name: item.bop.hatchetAmethyst. ID: 22328
+Item. Name: item.bop.hoeAmethyst. ID: 22329
+Item. Name: item.bop.helmetAmethyst. ID: 22330
+Item. Name: item.bop.chestplateAmethyst. ID: 22331
+Item. Name: item.bop.leggingsAmethyst. ID: 22332
+Item. Name: item.bop.bootsAmethyst. ID: 22333
+Item. Name: item.bop.flowerBand. ID: 22334
+Item. Name: item.bop.bopBucket. ID: 22335
 Item. Unused ID: 22336
 Item. Unused ID: 22337
 Item. Unused ID: 22338
@@ -22748,11 +22748,11 @@ Item. Unused ID: 22747
 Item. Unused ID: 22748
 Item. Unused ID: 22749
 Item. Unused ID: 22750
-Item. Unused ID: 22751
-Item. Unused ID: 22752
+Item. Name: item.Energy Link Card. ID: 22751
+Item. Name: item.Energy Link Card (Blank). ID: 22752
 Item. Unused ID: 22753
 Item. Unused ID: 22754
-Item. Unused ID: 22755
+Item. Name: item.Charging Bench Toolkit. ID: 22755
 Item. Unused ID: 22756
 Item. Unused ID: 22757
 Item. Unused ID: 22758
@@ -22994,9 +22994,9 @@ Item. Unused ID: 22993
 Item. Unused ID: 22994
 Item. Unused ID: 22995
 Item. Unused ID: 22996
-Item. Unused ID: 22997
-Item. Unused ID: 22998
-Item. Unused ID: 22999
+Item. Name: item.upgradeEmitterModule. ID: 22997
+Item. Name: item.upgradeBasicModule. ID: 22998
+Item. Name: item.upgradeKit. ID: 22999
 Item. Unused ID: 23000
 Item. Unused ID: 23001
 Item. Unused ID: 23002
@@ -24853,66 +24853,66 @@ Item. Unused ID: 24852
 Item. Unused ID: 24853
 Item. Unused ID: 24854
 Item. Unused ID: 24855
-Item. Unused ID: 24856
-Item. Unused ID: 24857
-Item. Unused ID: 24858
-Item. Unused ID: 24859
-Item. Unused ID: 24860
-Item. Unused ID: 24861
-Item. Unused ID: 24862
+Item. Name: item.HSScytheWood. ID: 24856
+Item. Name: item.HSScytheStone. ID: 24857
+Item. Name: item.HSScytheIron. ID: 24858
+Item. Name: item.HSScytheDiamond. ID: 24859
+Item. Name: item.HSScytheGold. ID: 24860
+Item. Name: item.HSScytheLivingmetal. ID: 24861
+Item. Name: item.HSScytheBiomass. ID: 24862
 Item. Unused ID: 24863
 Item. Unused ID: 24864
-Item. Unused ID: 24865
-Item. Unused ID: 24866
-Item. Unused ID: 24867
-Item. Unused ID: 24868
-Item. Unused ID: 24869
-Item. Unused ID: 24870
-Item. Unused ID: 24871
-Item. Unused ID: 24872
+Item. Name: item.HSScytheSoulReaper. ID: 24865
+Item. Name: item.HSGlaiveWood. ID: 24866
+Item. Name: item.HSGlaiveStone. ID: 24867
+Item. Name: item.HSGlaiveIron. ID: 24868
+Item. Name: item.HSGlaiveDiamond. ID: 24869
+Item. Name: item.HSGlaiveGold. ID: 24870
+Item. Name: item.HSGlaiveLivingmetal. ID: 24871
+Item. Name: item.HSGlaiveBiomass. ID: 24872
 Item. Unused ID: 24873
 Item. Unused ID: 24874
 Item. Unused ID: 24875
-Item. Unused ID: 24876
-Item. Unused ID: 24877
-Item. Unused ID: 24878
-Item. Unused ID: 24879
-Item. Unused ID: 24880
-Item. Unused ID: 24881
-Item. Unused ID: 24882
-Item. Unused ID: 24883
-Item. Unused ID: 24884
-Item. Unused ID: 24885
-Item. Unused ID: 24886
-Item. Unused ID: 24887
-Item. Unused ID: 24888
-Item. Unused ID: 24889
-Item. Unused ID: 24890
-Item. Unused ID: 24891
-Item. Unused ID: 24892
-Item. Unused ID: 24893
-Item. Unused ID: 24894
-Item. Unused ID: 24895
+Item. Name: item.HSEssenceKeeper. ID: 24876
+Item. Name: item.HSSoulkeeper. ID: 24877
+Item. Name: item.HSBloodkeeper. ID: 24878
+Item. Name: item.HSEssenceVessel. ID: 24879
+Item. Name: item.HSSoulVessel. ID: 24880
+Item. Name: item.HSBloodVessel. ID: 24881
+Item. Name: item.HSBookShadow. ID: 24882
+Item. Name: item.HSBookCarnage. ID: 24883
+Item. Name: item.HSBookNecronomicon. ID: 24884
+Item. Name: item.HSBookNecronomiconPage. ID: 24885
+Item. Name: item.HSCrucibleSoul. ID: 24886
+Item. Name: item.HSCrucibleBlood. ID: 24887
+Item. Name: item.HSSkull. ID: 24888
+Item. Name: item.HSTalisman. ID: 24889
+Item. Name: item.HSTalismanEthereal. ID: 24890
+Item. Name: item.HSAmuletOverworld. ID: 24891
+Item. Name: item.HSAmuletNether. ID: 24892
+Item. Name: item.HSAmuletEthereal. ID: 24893
+Item. Name: item.HSIngotLivingmetal. ID: 24894
+Item. Name: item.HSBiomass. ID: 24895
 Item. Unused ID: 24896
-Item. Unused ID: 24897
-Item. Unused ID: 24898
-Item. Unused ID: 24899
-Item. Unused ID: 24900
-Item. Unused ID: 24901
+Item. Name: item.HSEctoplasm. ID: 24897
+Item. Name: item.HSDyeSpectral. ID: 24898
+Item. Name: item.HSCreepball. ID: 24899
+Item. Name: item.HSBiomassSeed. ID: 24900
+Item. Name: item.HSBiomassSeedGerminated. ID: 24901
 Item. Unused ID: 24902
 Item. Unused ID: 24903
 Item. Unused ID: 24904
 Item. Unused ID: 24905
-Item. Unused ID: 24906
-Item. Unused ID: 24907
-Item. Unused ID: 24908
-Item. Unused ID: 24909
-Item. Unused ID: 24910
-Item. Unused ID: 24911
-Item. Unused ID: 24912
-Item. Unused ID: 24913
-Item. Unused ID: 24914
-Item. Unused ID: 24915
+Item. Name: item.HSSwordLivingmetal. ID: 24906
+Item. Name: item.HSSpadeLivingmetal. ID: 24907
+Item. Name: item.HSPickaxeLivingmetal. ID: 24908
+Item. Name: item.HSAxeLivingmetal. ID: 24909
+Item. Name: item.HSHoeLivingmetal. ID: 24910
+Item. Name: item.HSSwordBiomass. ID: 24911
+Item. Name: item.HSSpadeBiomass. ID: 24912
+Item. Name: item.HSPickaxeBiomass. ID: 24913
+Item. Name: item.HSAxeBiomass. ID: 24914
+Item. Name: item.HSHoeBiomass. ID: 24915
 Item. Unused ID: 24916
 Item. Unused ID: 24917
 Item. Unused ID: 24918
@@ -24923,22 +24923,22 @@ Item. Unused ID: 24922
 Item. Unused ID: 24923
 Item. Unused ID: 24924
 Item. Unused ID: 24925
-Item. Unused ID: 24926
-Item. Unused ID: 24927
-Item. Unused ID: 24928
-Item. Unused ID: 24929
-Item. Unused ID: 24930
-Item. Unused ID: 24931
-Item. Unused ID: 24932
-Item. Unused ID: 24933
-Item. Unused ID: 24934
-Item. Unused ID: 24935
-Item. Unused ID: 24936
-Item. Unused ID: 24937
-Item. Unused ID: 24938
-Item. Unused ID: 24939
-Item. Unused ID: 24940
-Item. Unused ID: 24941
+Item. Name: item.HSHelmetSoulweave. ID: 24926
+Item. Name: item.HSChestplateSoulweave. ID: 24927
+Item. Name: item.HSLeggingsSoulweave. ID: 24928
+Item. Name: item.HSBootsSoulweave. ID: 24929
+Item. Name: item.HSHelmetBloodweave. ID: 24930
+Item. Name: item.HSChestplateBloodweave. ID: 24931
+Item. Name: item.HSLeggingsBloodweave. ID: 24932
+Item. Name: item.HSBootsBloodweave. ID: 24933
+Item. Name: item.HSHelmetLivingmetal. ID: 24934
+Item. Name: item.HSChestplateLivingmetal. ID: 24935
+Item. Name: item.HSLeggingsLivingmetal. ID: 24936
+Item. Name: item.HSBootsLivingmetal. ID: 24937
+Item. Name: item.HSHelmetBiomass. ID: 24938
+Item. Name: item.HSChestplateBiomass. ID: 24939
+Item. Name: item.HSLeggingsBiomass. ID: 24940
+Item. Name: item.HSBootsBiomass. ID: 24941
 Item. Unused ID: 24942
 Item. Unused ID: 24943
 Item. Unused ID: 24944
@@ -24947,20 +24947,20 @@ Item. Unused ID: 24946
 Item. Unused ID: 24947
 Item. Unused ID: 24948
 Item. Unused ID: 24949
-Item. Unused ID: 24950
-Item. Unused ID: 24951
-Item. Unused ID: 24952
-Item. Unused ID: 24953
-Item. Unused ID: 24954
-Item. Unused ID: 24955
-Item. Unused ID: 24956
-Item. Unused ID: 24957
-Item. Unused ID: 24958
-Item. Unused ID: 24959
-Item. Unused ID: 24960
-Item. Unused ID: 24961
-Item. Unused ID: 24962
-Item. Unused ID: 24963
+Item. Name: item.HSHelmetSpectralLeather. ID: 24950
+Item. Name: item.HSChestplateSpectralLeather. ID: 24951
+Item. Name: item.HSLeggingsSpectralLeather. ID: 24952
+Item. Name: item.HSBootsSpectralLeather. ID: 24953
+Item. Name: item.HSHelmetSpectralSoulweave. ID: 24954
+Item. Name: item.HSChestplateSpectralSoulweave. ID: 24955
+Item. Name: item.HSLeggingsSpectralSoulweave. ID: 24956
+Item. Name: item.HSBootsSpectralSoulweave. ID: 24957
+Item. Name: item.HSHelmetSpectralBloodweave. ID: 24958
+Item. Name: item.HSChestplateSpectralBloodweave. ID: 24959
+Item. Name: item.HSLeggingsSpectralBloodweave. ID: 24960
+Item. Name: item.HSBootsSpectralBloodweave. ID: 24961
+Item. Name: item.HSLunarDial. ID: 24962
+Item. Name: item.HSAbyssFragment. ID: 24963
 Item. Unused ID: 24964
 Item. Unused ID: 24965
 Item. Unused ID: 24966
@@ -25113,7 +25113,7 @@ Item. Unused ID: 25112
 Item. Unused ID: 25113
 Item. Unused ID: 25114
 Item. Unused ID: 25115
-Item. Unused ID: 25116
+Item. Name: item.immibis/lxp:bucket. ID: 25116
 Item. Unused ID: 25117
 Item. Unused ID: 25118
 Item. Unused ID: 25119
@@ -26710,7 +26710,7 @@ Item. Unused ID: 26709
 Item. Name: item.null. ID: 26710
 Item. Name: item.null. ID: 26711
 Item. Name: item.null. ID: 26712
-Item. Name: item.null. ID: 26713
+Item. Unused ID: 26713
 Item. Unused ID: 26714
 Item. Unused ID: 26715
 Item. Unused ID: 26716
@@ -26788,7 +26788,7 @@ Item. Unused ID: 26787
 Item. Unused ID: 26788
 Item. Unused ID: 26789
 Item. Unused ID: 26790
-Item. Unused ID: 26791
+Item. Name: item.null. ID: 26791
 Item. Unused ID: 26792
 Item. Unused ID: 26793
 Item. Unused ID: 26794
@@ -27496,7 +27496,7 @@ Item. Unused ID: 27495
 Item. Unused ID: 27496
 Item. Unused ID: 27497
 Item. Unused ID: 27498
-Item. Unused ID: 27499
+Item. Name: item.emptyVoidTear. ID: 27499
 Item. Unused ID: 27500
 Item. Unused ID: 27501
 Item. Unused ID: 27502
@@ -27523,31 +27523,31 @@ Item. Unused ID: 27522
 Item. Unused ID: 27523
 Item. Unused ID: 27524
 Item. Unused ID: 27525
-Item. Unused ID: 27526
-Item. Unused ID: 27527
-Item. Unused ID: 27528
-Item. Unused ID: 27529
-Item. Unused ID: 27530
-Item. Unused ID: 27531
-Item. Unused ID: 27532
-Item. Unused ID: 27533
-Item. Unused ID: 27534
-Item. Unused ID: 27535
-Item. Unused ID: 27536
-Item. Unused ID: 27537
-Item. Unused ID: 27538
-Item. Unused ID: 27539
-Item. Unused ID: 27540
-Item. Unused ID: 27541
-Item. Unused ID: 27542
-Item. Unused ID: 27543
-Item. Unused ID: 27544
-Item. Unused ID: 27545
-Item. Unused ID: 27546
-Item. Unused ID: 27547
-Item. Unused ID: 27548
+Item. Name: item.reliquaryHandgun. ID: 27526
+Item. Name: item.null. ID: 27527
+Item. Name: item.reliquaryMagazine. ID: 27528
+Item. Name: item.mercyCross. ID: 27529
+Item. Name: item.alkahestTome. ID: 27530
+Item. Name: item.holyHandGrenade. ID: 27531
+Item. Name: item.fortuneCoin. ID: 27532
+Item. Name: item.glowWater. ID: 27533
+Item. Name: item.gunPart. ID: 27534
+Item. Name: item.glowBread. ID: 27535
+Item. Name: item.sojournerStaff. ID: 27536
+Item. Name: item.midasTouchstone. ID: 27537
+Item. Name: item.alkahest. ID: 27538
+Item. Name: item.emperorChalice. ID: 27539
+Item. Name: item.salamanderEye. ID: 27540
+Item. Name: item.iceRod. ID: 27541
+Item. Name: item.reliquaryPotion. ID: 27542
+Item. Name: item.reliquaryMagicbane. ID: 27543
+Item. Name: item.witherlessRose. ID: 27544
+Item. Name: item.distortionCloak. ID: 27545
+Item. Name: item.voidTear. ID: 27546
+Item. Name: item.destructionCatalyst. ID: 27547
+Item. Name: item.wraithEye. ID: 27548
 Item. Unused ID: 27549
-Item. Unused ID: 27550
+Item. Name: item.voidSatchel. ID: 27550
 Item. Unused ID: 27551
 Item. Unused ID: 27552
 Item. Unused ID: 27553
@@ -28227,7 +28227,7 @@ Item. Unused ID: 28226
 Item. Unused ID: 28227
 Item. Unused ID: 28228
 Item. Unused ID: 28229
-Item. Unused ID: 28230
+Item. Name: item.null. ID: 28230
 Item. Unused ID: 28231
 Item. Unused ID: 28232
 Item. Unused ID: 28233
@@ -29194,7 +29194,7 @@ Item. Unused ID: 29193
 Item. Unused ID: 29194
 Item. Unused ID: 29195
 Item. Unused ID: 29196
-Item. Unused ID: 29197
+Item. Name: item.null. ID: 29197
 Item. Unused ID: 29198
 Item. Unused ID: 29199
 Item. Unused ID: 29200
@@ -30470,17 +30470,17 @@ Item. Unused ID: 30469
 Item. Unused ID: 30470
 Item. Unused ID: 30471
 Item. Unused ID: 30472
-Item. Unused ID: 30473
-Item. Unused ID: 30474
-Item. Unused ID: 30475
+Item. Name: item.GraviChestPlate. ID: 30473
+Item. Name: item.UltimateLappack. ID: 30474
+Item. Name: item.null. ID: 30475
 Item. Unused ID: 30476
-Item. Unused ID: 30477
-Item. Unused ID: 30478
-Item. Unused ID: 30479
-Item. Unused ID: 30480
-Item. Unused ID: 30481
-Item. Unused ID: 30482
-Item. Unused ID: 30483
+Item. Name: item.Vajra. ID: 30477
+Item. Name: item.Advanced Diamond Drill. ID: 30478
+Item. Name: item.Advanced Chainsaw. ID: 30479
+Item. Name: item.Advanced Lappack. ID: 30480
+Item. Name: item.Advanced Electric Jetpack. ID: 30481
+Item. Name: item.GraviTool. ID: 30482
+Item. Name: item.Advanced NanoChestPlate. ID: 30483
 Item. Unused ID: 30484
 Item. Unused ID: 30485
 Item. Unused ID: 30486
@@ -30828,10 +30828,10 @@ Item. Unused ID: 30827
 Item. Unused ID: 30828
 Item. Unused ID: 30829
 Item. Unused ID: 30830
-Item. Unused ID: 30831
-Item. Unused ID: 30832
-Item. Unused ID: 30833
-Item. Unused ID: 30834
+Item. Name: item.ingotIridium. ID: 30831
+Item. Name: item.AdvancedSolarHelmet. ID: 30832
+Item. Name: item.HybridSolarHelmet. ID: 30833
+Item. Name: item.UltimateSolarHelmet. ID: 30834
 Item. Unused ID: 30835
 Item. Unused ID: 30836
 Item. Unused ID: 30837
@@ -31253,18 +31253,18 @@ Item. Unused ID: 31252
 Item. Unused ID: 31253
 Item. Unused ID: 31254
 Item. Unused ID: 31255
-Item. Unused ID: 31256
-Item. Unused ID: 31257
-Item. Unused ID: 31258
-Item. Unused ID: 31259
-Item. Unused ID: 31260
-Item. Unused ID: 31261
-Item. Unused ID: 31262
-Item. Unused ID: 31263
-Item. Unused ID: 31264
-Item. Unused ID: 31265
-Item. Unused ID: 31266
-Item. Unused ID: 31267
+Item. Name: item.ItemToolThermometer. ID: 31256
+Item. Name: item.ItemToolDigitalThermometer. ID: 31257
+Item. Name: item.ItemRemoteSensorKit. ID: 31258
+Item. Name: item.ItemSensorLocationCard. ID: 31259
+Item. Name: item.null. ID: 31260
+Item. Name: item.ItemTimeCard. ID: 31261
+Item. Name: item.ItemEnergySensorKit. ID: 31262
+Item. Name: item.ItemEnergySensorLocationCard. ID: 31263
+Item. Name: item.ItemEnergyArrayLocationCard. ID: 31264
+Item. Name: item.ItemCounterSensorKit. ID: 31265
+Item. Name: item.null. ID: 31266
+Item. Name: item.ItemTextCard. ID: 31267
 Item. Unused ID: 31268
 Item. Unused ID: 31269
 Item. Unused ID: 31270
@@ -31753,7 +31753,7 @@ Item. Unused ID: 31752
 Item. Unused ID: 31753
 Item. Unused ID: 31754
 Item. Unused ID: 31755
-Item. Unused ID: 31756
+Item. Name: item.atomicscience:cellWater. ID: 31756
 Item. Unused ID: 31757
 Item. Unused ID: 31758
 Item. Unused ID: 31759
@@ -31928,13 +31928,13 @@ Item. Unused ID: 31927
 Item. Unused ID: 31928
 Item. Unused ID: 31929
 Item. Unused ID: 31930
-Item. Unused ID: 31931
-Item. Unused ID: 31932
-Item. Unused ID: 31933
-Item. Unused ID: 31934
-Item. Unused ID: 31935
-Item. Unused ID: 31936
-Item. Unused ID: 31937
+Item. Name: item.gcewing.lighting:ic2FilamentAssembly. ID: 31931
+Item. Name: item.gcewing.lighting:glowingIngot. ID: 31932
+Item. Name: item.gcewing.lighting:gasNozzle. ID: 31933
+Item. Name: item.gcewing.lighting:glowstoneBulb. ID: 31934
+Item. Name: item.gcewing.lighting:gaslightMantle. ID: 31935
+Item. Name: item.gcewing.lighting:bonemealAndCharcoal. ID: 31936
+Item. Name: item.gcewing.lighting:calciumCarbide. ID: 31937
 Item. Unused ID: 31938
 Item. Unused ID: 31939
 Item. Unused ID: 31940
@@ -31968,14 +31968,14 @@ Item. Unused ID: 31967
 Item. Unused ID: 31968
 Item. Unused ID: 31969
 Item. Unused ID: 31970
-Item. Unused ID: 31971
+Item. Name: item.icbm:minecart. ID: 31971
 Item. Unused ID: 31972
 Item. Unused ID: 31973
 Item. Unused ID: 31974
 Item. Unused ID: 31975
 Item. Unused ID: 31976
-Item. Name: item.artifact. ID: 31977
-Item. Name: item.omniwrench. ID: 31978
+Item. Unused ID: 31977
+Item. Unused ID: 31978
 Item. Unused ID: 31979
 Item. Unused ID: 31980
 Item. Unused ID: 31981
@@ -31990,10 +31990,10 @@ Item. Unused ID: 31989
 Item. Unused ID: 31990
 Item. Unused ID: 31991
 Item. Unused ID: 31992
-Item. Unused ID: 31993
-Item. Unused ID: 31994
-Item. Unused ID: 31995
-Item. Unused ID: 31996
-Item. Name: item.upgradeEmitterModule. ID: 31997
-Item. Name: item.upgradeBasicModule. ID: 31998
-Item. Name: item.upgradeKit. ID: 31999
+Item. Name: item.icbm:tracker. ID: 31993
+Item. Name: item.icbm:signalDisrupter. ID: 31994
+Item. Name: item.icbm:antidote. ID: 31995
+Item. Name: item.null. ID: 31996
+Item. Unused ID: 31997
+Item. Name: item.null. ID: 31998
+Item. Name: item.null. ID: 31999

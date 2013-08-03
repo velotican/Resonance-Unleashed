@@ -1,5 +1,13 @@
 == Changelog ==
 
+= 1.1.1.0 = 3 August 2013
+- Existing support updated to the latest versions of supported modpacks:
+  * FTB Unleashed [1.1.2]
+  * Direwolf20 1.5 Edition [1.1.2]
+- Block/item IDs adjusted to more closely match FTB Unleashed once again
+- mIDas support updated to latest versions of packs and RU
+- Immibis' Microblocks internal "I-can-cut-this" block map fixed to work with RU
+
 = 1.1.0.0 = 1 August 2013
 - Added support for:
   * ForgeBackup
