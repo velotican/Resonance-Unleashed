@@ -1,5 +1,20 @@
 == Changelog ==
 
+= 2.0.0.0 = 14 September 2013
+- The long hiatus is over!
+- Existing 1.5.* support updated to the latest versions of supported modpacks:
+  * FTB Unleashed [1.1.4]
+  * Direwolf20 1.5 Edition v2 [1.1.4]
+  * Resonant Rise [1.0.0-RC3]
+- This updates adds support for all the mods added since the last update, of particular note is the addition of Artifice and ChocoCraft
+- Immibis' Microblocks cuttable data renewed again (this will be a regular thing and can be assumed from now on)
+- 1.5.2 IDMap data updated
+- THIS IS THE LAST TIME 1.5.* SUPPORT WILL BE UPDATED; 1.5.* SUPPORT CEASES FROM HERE ON OUT
+- Due to overwhelming futility caused by Forge changes in 1.6.* and the FTB config problem, mIDas features have been suspended and will likely stay suspended into Minecraft 1.7.*. They will return when it once again becomes practical to import old worlds.
+- Experimental support for 1.6.* added: there are currently no official modpacks using 1.6.*, but this config pack is being used to develop the new RR pack at the time of writing
+- THE 1.6.* SUPPORT IS SUBJECT TO HEAVY CHANGE AND MAY HAVE MODS REMOVED AS WELL AS ADDED
+- By request, the 1.4.7 configs from this pack's predecessor have been reinstated; they are unchanged
+
 = 1.1.1.0 = 3 August 2013
 - Existing support updated to the latest versions of supported modpacks:
   * FTB Unleashed [1.1.2]
