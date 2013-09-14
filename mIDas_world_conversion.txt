@@ -1,3 +1,13 @@
+== WARNING ==
+
+As of 14th September 2013 until further notice, this feature has been suspended.
+
+You will need to create fresh worlds for 1.6.* no matter what, so maintaining this feature has become impractical. It will return when the Forge and FTB teams stop breaking worlds frequently.
+
+You can, however, still attempt this manually on your own. :)
+
+== END WARNING ==
+
 As direct conversion between modpacks is no longer realistic, both because FTB no longer keeps its block/item IDs synced between packs and because Resonant Rise uses totally different IDs anyway, Resonant Unleashed contains support for the mIDas world converter.
 
 BACKUP YOUR WORLDS BEFORE ATTEMPTING CONVERSION!

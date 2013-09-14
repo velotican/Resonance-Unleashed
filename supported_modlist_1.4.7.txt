@@ -1,0 +1,99 @@
+= List Accurate as of 27 April 2013 =
+
+Built for Minecraft 1.4.7
+
+These are the mods known to be supported by this config pack:
+
+Minecraft Forge [6.6.0.534]
+LiteLoader [1.4.7]
+CodeChickenCore [0.8.1.6]
+CoFHCore [1.4.7.3] [no config]
+Immibis Core [52.4.6]
+PowerCrystals Core [1.0.3]
+Not Enough Items [1.4.7.4]
+Optifine [1.4.6_HD_U_D5] [no config]
+
+Integrated Sound Packs [1.1.1_mc_1.4.6]
+VoxelMap [0.9.0]
+VoxelMenu [1.4.7_05]
+VoxelPlayer [0.9.6_mc1.4.7]
+
+Applied Energistics [rv.9.i]
+Bechill's Ticks Per Second [0.4.1.1] [no config]
+BiblioCraft [1.1.2]
+BuildCraft [3.4.3]
+ChickenChunks [1.3.1.2]
+ComputerCraft [1.5]
+CC MiscPeripherals [3.1]
+Equivalent Exchange 3 [pre1f]
+EnderStorage [1.4.1.4]
+ExtraBiomesXL [3.11.0]
+Extra Bees [1.5.0.6b]
+Factorization [0.7.21]
+Flat Bedrock [1.0.3] [no config]
+Forestry [2.0.0.11]
+ForgeIRC [1.0.14]
+Gravity Gun [1.4.7v2]
+IndustrialCraft2 [1.115.231-lf]
+IC2 Advanced Machines [4.7b]
+IC2 Advanced Solar Panels [3.3.4]
+IC2 Charge Pads [2.4.1.66]
+IC2 Compact Solars [4.0.3.29]
+IC2 Gravitation Suite [1.8]
+IC2 GregTech [2.90h]
+IC2 Nuclear Control [1.4.6]
+IC2 Petroleum Generator [1.2.1]
+Immibis' TubeStuff [52.3.2]
+Inventory Tweaks [1.50]
+Iron Chests [5.1.0.275]
+Minefactory Reloaded [2.3.2-287]
+Modular Force Field System [2.2.8.3.6]*
+Modular Power Suits [0.3.2.199]
+MystCraft [0.10.1.00]
+Nether Ores [2.0.6-32]
+Obsidian Pressure Plates [1.2.0.3]
+OmniTools [3.0.4]
+Portal Gun [1.4.7v5]
+Power Converters [2.2.2-29]
+RailCraft [6.17.0.0]
+Rei's Minimap [3.2_06]
+RedPower 2 [pre6]
+Secret Rooms [4.5.0.217]
+Soul Shards [1.26]
+Steve's Carts 2 [a61]
+Thaumcraft [3.0.3]
+Thaumic Bees [1.4.4]
+Thermal Expansion [2.2.2.2]
+TrainCraft [3.1.13_030]
+Twilight Forest [1.15.4]
+Wireless Redstone [1.3.3]
+Xeno's Reliquary [1.05d]
+XyCraft [0.10.18]
+
+*This mod has been forked and future support for this mod will depend on which updated version of the mod FTB chooses to use.
+
+= OPTIONAL AMPZ SUPPORT =
+
+Assembly Line [0.2.8.87]
+Atomic Science [0.4.1.162]
+Basic Components [1.2.6.339]
+Electric Expansion [1.4.7]
+Fluid Mechanics [0.2.8.27]
+ICBM [1.0.5.166]
+Mekanism [5.4.1]
+
+= OPTIONAL DIVINERPG SUPPORT =
+
+Damage Indicators [2.4.8]
+DivineRPG [1.3.0.4]
+
+
+The versions of the mods supported may be newer than those used in the current FTB packs because I like to play on the cutting edge, so keep this in mind. :)
+
+*DON'T USE ADVANCED SOLAR PANELS AND COMPACT SOLARS AT THE SAME TIME.*
+
+They use the same block IDs and are designed to do the same job. Pick one of the two and stick with it. :)
+
+*DON'T USE VOXELMAP AND REI'S MINIMAP AT THE SAME TIME.*
+
+It just looks silly and is a waste of RAM. :)
