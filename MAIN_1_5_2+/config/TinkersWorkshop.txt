@@ -1,41 +1,69 @@
 # Configuration file
 
 ####################
+# alpha behavior
+####################
+
+"alpha behavior" {
+    B:"Regenerate HP from food"=false
+    B:"Remove hunger"=false
+}
+
+
+####################
 # block
 ####################
 
 block {
     I:Aggregator=3221
     I:Barricade=1469
+    I:"Birch Barricade"=1483
+    I:"Casting Channel"=3249
     I:"Clear Glass"=3223
     I:"Clear Stained Glass"=3225
     I:"Clear Stained Glass Pane"=3229
+    I:"Congealed Slime"=3237
+    I:"Crafting Slab"=3243
+    I:"Crafting Station"=3233
     I:"Drying Rack"=3227
+    I:"Essence Extractor"=3234
     I:"Glass Pane"=3228
     I:"Held Item Block"=1472
+    I:"Jungle Barricade"=1487
     I:Landmine=1470
     I:"Lava Tank"=1473
     I:"Light Crystal"=3222
+    I:"Liquid Blue Slime"=3235
     I:"Liquid Metal Flowing"=1479
     I:"Liquid Metal Still"=1480
+    I:"Meat Block"=3242
     I:"Metal Storage"=1478
     I:"Multi Brick"=1481
     I:"Multi Brick Fancy"=1467
+    I:"Oak Barricade"=1469
     I:"Ore Berry One"=1485
     I:"Ore Berry Two"=1486
     I:"Ores Gravel"=1488
     I:"Ores Slag"=1475
+    I:Punji=3232
     I:"Redstone Machines"=3226
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
+    I:"Slime Grass"=3238
+    I:"Slime Grass Leaves"=3240
+    I:"Slime Tall Grass"=3239
+    I:"Slime Tree Sapling"=3241
     I:Smeltery=1474
     I:"Special Soil"=1476
     I:"Speed Block"=1489
     I:"Speed Slab"=3231
+    I:"Spruce Barricade"=1482
     I:"Stained Glass"=3224
     I:"Stone Torch"=1484
     I:"Tool Forge"=1468
     I:"Wood Tool Station"=1471
+    I:"Wool Slab 1"=3244
+    I:"Wool Slab 2"=3245
 }
 
 
@@ -63,7 +91,7 @@ block {
     B:"Lower bronze output to 2 ingots"=false
     B:"Modifiers increase Mining Level"=true
     B:"Remove Overworld void fog"=true
-    B:"Remove Vanilla GregTech Nerfs"=true
+    B:"Remove Vanilla GregTech Nerfs"=false
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
     B:"Turn water clear"=true
@@ -113,6 +141,7 @@ general {
 "patterns and misc" {
     I:"Blank Patterns"=14019
     I:Buckets=14101
+    I:"Essence Crystal"=14114
     I:"Golden Head"=14113
     I:"Jeweled Apple"=14107
     I:Materials=14020
@@ -205,11 +234,15 @@ tools {
 ####################
 
 "ultra hardcore changes" {
+    # Gives all tier 1 patterns when pattern chest is placed
     B:"Add Patterns to Pattern Chests"=false
     B:"Add World Border"=false
+
+    # Makes recipes for gold apples, carrots, and melon potions more expensive
     B:"Change Crafting Recipes"=false
     B:"Change Ghast drops to Gold Ingots"=false
     B:"Craft Stencil Tables"=true
+    B:"Necrotic modifier only heals on hostile mob kills"=false
     B:"Passive Health Regen"=true
     B:"Players drop heads on death"=false
     I:"World Border Radius"=1000
@@ -234,7 +267,11 @@ worldgen {
     I:"Copper Bush Max Y"=60
     I:"Copper Bush Min Y"=20
     I:"Copper Bush Rarity"=1
+
+    # Rarity: 1/num to generate in chunk
     I:"Copper Surface Rarity"=80
+
+    # Density: Chances per chunk
     I:"Copper Underground Density"=0
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20
@@ -248,6 +285,7 @@ worldgen {
     I:"Nether Ores Density"=8
     I:"Silver Bush Density"=1
     I:"Silver Bush Rarity"=2
+    I:"Slime Island Rarity"=450
     I:"Tin Bush Density"=2
     I:"Tin Bush Max Y"=40
     I:"Tin Bush Min Y"=0

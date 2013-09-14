@@ -5,25 +5,69 @@
 ####################
 
 block {
+    I:"Amaranth Button"=3338
+    I:"Amaranth Fence Gate"=3351
+    I:"Amaranth Pressure Plate"=3311
+    I:"Amaranth Stairs"=3298
+    I:"Amaranth Trapdoor"=3324
     I:Berry_Bush=3257
     I:"Bloodwood Block"=3263
+    I:"Bloodwood Button"=3334
     I:"Bloodwood Door"=3268
+    I:"Bloodwood Fence Gate"=3347
+    I:"Bloodwood Pressure Plate"=3308
+    I:"Bloodwood Stairs"=3295
+    I:"Bloodwood Trapdoor"=3321
     I:"Blue Glowshroom"=3273
     I:Bookshelf=3284
     I:"Cloud Block"=3253
     I:"Crafting Table"=3283
     I:Crops=3260
+    I:"Darkwood Button"=3341
+    I:"Darkwood Fence Gate"=3354
     I:"Darkwood Leaves"=3272
     I:"Darkwood Log"=3271
+    I:"Darkwood Pressure Plate"=3315
+    I:"Darkwood Stairs"=3302
+    I:"Darkwood Trapdoor"=3328
     I:"Eucalyptus Door"=3264
+    I:"Eucalyputus Button"=3330
+    I:"Eucalyputus Fence Gate"=3343
+    I:"Eucalyputus Pressure Plate"=3304
+    I:"Eucalyputus Stairs"=3291
+    I:"Eucalyputus Trapdoor"=3317
     I:Fence=3285
     I:"Flora Leaves"=3259
     I:Flower=3281
+    I:"Fusewood Button"=3342
+    I:"Fusewood Fence Gate"=3355
+    I:"Fusewood Pressure Plate"=3316
+    I:"Fusewood Stairs"=3303
+    I:"Fusewood Trapdoor"=3329
+    I:"Ghostwood Button"=3332
     I:"Ghostwood Door"=3267
+    I:"Ghostwood Fence Gate"=3345
+    I:"Ghostwood Pressure Plate"=3306
+    I:"Ghostwood Stairs"=3293
+    I:"Ghostwood Trapdoor"=3319
     I:"Glowing Mushroom"=3270
     I:"Green Glowshroom"=3274
+    I:"Hopseed Button"=3335
     I:"Hopseed Door"=3265
+    I:"Hopseed Fence Gate"=3348
+    I:"Hopseed Pressure Plate"=3309
+    I:"Hopseed Stairs"=3296
+    I:"Hopseed Trapdoor"=3322
+    I:"Ladder Four"=3359
+    I:"Ladder One"=3356
+    I:"Ladder Three"=3358
+    I:"Ladder Two"=3357
     I:"Log Slab"=3290
+    I:"Maple Button"=3336
+    I:"Maple Fence Gate"=3349
+    I:"Maple Pressure Plate"=3310
+    I:"Maple Stairs"=3297
+    I:"Maple Trapdoor"=3323
     I:"Nether Berry Bush"=3255
     I:"Plank Slab One"=3288
     I:"Plank Slab Two"=3289
@@ -34,15 +78,40 @@ block {
     I:"Rare Sapling"=3279
     I:"Redwood Bark Door"=3269
     I:"Redwood Block"=3261
+    I:"Redwood Button"=3333
     I:"Redwood Door"=3252
+    I:"Redwood Fence Gate"=3346
+    I:"Redwood Pressure Plate"=3307
+    I:"Redwood Stairs"=3294
+    I:"Redwood Trapdoor"=3320
     I:"Saguaro Cactus"=3254
+    I:"Sakura Button"=3331
     I:"Sakura Door"=3266
+    I:"Sakura Fence Gate"=3344
     I:"Sakura Leaves"=3258
+    I:"Sakura Pressure Plate"=3305
+    I:"Sakura Stairs"=3292
+    I:"Sakura Trapdoor"=3318
     I:Sapling=3256
+    I:"Silverbell Button"=3337
+    I:"Silverbell Fence Gate"=3350
+    I:"Silverbell Pressure Plate"=3312
+    I:"Silverbell Stairs"=3299
+    I:"Silverbell Trapdoor"=3325
     I:Thornvines=3282
+    I:"Tigerwood Button"=3339
+    I:"Tigerwood Fence Gate"=3352
+    I:"Tigerwood Pressure Plate"=3313
+    I:"Tigerwood Stairs"=3300
+    I:"Tigerwood Trapdoor"=3326
     I:"Topiary Grass Block"=3286
     I:"Topiary Grass Slab"=3287
+    I:"Willow Button"=3340
+    I:"Willow Fence Gate"=3353
     I:"Willow Log"=3280
+    I:"Willow Pressure Plate"=3314
+    I:"Willow Stairs"=3301
+    I:"Willow Trapdoor"=3327
     I:"Wood Block"=3251
 }
 
@@ -164,6 +233,16 @@ item {
     I:"Stew Bowl"=12443
     I:Stick=12421
     I:"Wheat Seed Bag"=12411
+}
+
+
+####################
+# mob changes
+####################
+
+"mob changes" {
+    I:"Maximum Baby Heatscar Spiders on Spider Death"=4
+    I:"Minimum Baby Heatscar Spiders on Spider Death"=2
 }
 
 
