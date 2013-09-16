@@ -1,5 +1,12 @@
 == Changelog ==
 
+= 2.2.0.0 = 16 September 2013
+- Added support for Minegicka II
+- Added support for EiraIRC
+- Added support for Somnia
+- Repaired/new configs for some mods that were apparently malfunctioning before
+- Updated support for existing mods to latest known versions; see the supported modlist for details and supported versions
+
 = 2.1.0.0 = 15 September 2013
 - Added support for QuarryPlus
 - Restored support for NEI Plugins for 1.6.*
